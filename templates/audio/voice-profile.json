@@ -1,0 +1,17 @@
+{
+  "profile": "zen-explainer-original-narrator",
+  "identity": "choose one original licensed voice and reuse its real provider identifier",
+  "reference_voice_id": null,
+  "reference_provider": null,
+  "language_target": "English",
+  "accent_target": "clear conversational English; choose an accent once and lock it",
+  "words_per_second_including_pauses": [4.2, 4.4],
+  "mix_target_lufs": -14.3,
+  "mix_max_true_peak_dbtp": -1.0,
+  "suggested_compression": {"ratio": 3.0, "attack_ms": 10, "release_ms": 90},
+  "music_under_voice_db_relative": [-24, -18],
+  "sfx_under_voice_db_relative": [-18, -10],
+  "settings_status": "Suggested original-voice starting points. Not recovered source settings.",
+  "required_outputs": ["voice.wav", "words.json", "mix.wav", "cues.json"],
+  "mix_sample_rate": 48000
+}

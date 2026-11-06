@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ZEN 3D explainer shot plan",
+  "type": "object",
+  "required": ["title", "fps", "width", "height", "duration_frames", "shots"],
+  "properties": {
+    "title": {"type": "string"},
+    "fps": {"const": 30}, "width": {"type": "integer", "minimum": 512},
+    "height": {"type": "integer", "minimum": 910},
+    "duration_frames": {"type": "integer", "minimum": 1},
+    "voice_file": {"type": ["string", "null"]},
+    "words_file": {"type": ["string", "null"]},
+    "voice_status": {"enum": ["recorded-and-checked", "pending", "intentionally-silent"]},
+    "shots": {
+      "type": "array", "minItems": 1,
+      "items": {
+        "type": "object", "required": ["id", "start", "end", "narration", "mechanism", "camera", "action"],
+        "properties": {
+          "id": {"type": "string"}, "start": {"type": "integer", "minimum": 0},
+          "end": {"type": "integer", "minimum": 1},
+          "narration": {"type": "string"}, "mechanism": {"type": "string"},
+          "camera": {"type": "string"}, "action": {"type": "string"},
+          "caption": {"type": "string"}, "green_words": {"type": "array", "items": {"type": "string"}},
+          "label": {"type": ["string", "null"]}, "sfx": {"type": "array", "items": {"type": "string"}},
+          "reference_frame": {"type": "string"}
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true,
+  "$comment": "Also verify ordered contiguous start/end ranges, end > start, last end equals duration and all asset paths exist. JSON Schema alone cannot check those cross-field relationships."
+}

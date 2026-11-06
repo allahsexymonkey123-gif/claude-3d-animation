@@ -1,0 +1,14 @@
+CASTING TARGET, NOT AN IDENTIFIED OR CLONED REFERENCE VOICE
+Use one original adult narrator with clear conversational English. Aim for a natural
+mid-register delivery, focused and matter-of-fact, with lightly persuasive emphasis.
+Start speaking immediately. Keep the same identity, accent and recording distance.
+Read at 4.2 to 4.4 words per second including sentence pauses; adjust the script length
+to suit the take. Shorten sentences before aggressively time stretching the audio.
+Emphasize the new mechanism noun and the failure verb. Briefly pause on a causal turn.
+Do not shout, whisper, act as several characters, sing, or use a trailer voice.
+Do not flatten every syllable to a metronome. Use a small downward cadence at a payoff.
+Keep breaths subtle and consonants clean. Record dry, then compress consistently.
+The two references' voice identities, TTS providers and model settings are unknown.
+The pitch candidates in the measurement files come from a MIXED track, not isolated speech.
+Subjective vocal timbre was not verified by direct listening in the analysis environment.
+The instructions above are an original casting direction, not a claim of exact timbre matching.
