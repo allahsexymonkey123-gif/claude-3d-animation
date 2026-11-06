@@ -1,0 +1,53 @@
+[
+  {
+    "reference": "ref01",
+    "frame": 140,
+    "roi_xyxy": [
+      70,
+      550,
+      440,
+      630
+    ],
+    "white_caption_fill_bbox_xyxy": [
+      123,
+      573,
+      351,
+      602
+    ],
+    "note": "Bright neutral text pixels in manually isolated caption ROI; excludes black stroke and green words."
+  },
+  {
+    "reference": "ref02",
+    "frame": 30,
+    "roi_xyxy": [
+      70,
+      640,
+      455,
+      740
+    ],
+    "white_caption_fill_bbox_xyxy": [
+      99,
+      669,
+      375,
+      701
+    ],
+    "note": "Bright neutral text pixels in manually isolated caption ROI; excludes black stroke and green words."
+  },
+  {
+    "reference": "ref02",
+    "frame": 500,
+    "roi_xyxy": [
+      60,
+      640,
+      470,
+      750
+    ],
+    "white_caption_fill_bbox_xyxy": [
+      88,
+      669,
+      385,
+      709
+    ],
+    "note": "Bright neutral text pixels in manually isolated caption ROI; excludes black stroke and green words."
+  }
+]

@@ -1,0 +1,1965 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": " Pour concrete on the dirt in front of your house,",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.18,
+          "word": " Pour",
+          "probability": 0.506928026676178
+        },
+        {
+          "start": 0.18,
+          "end": 0.52,
+          "word": " concrete",
+          "probability": 0.9923434853553772
+        },
+        {
+          "start": 0.52,
+          "end": 0.66,
+          "word": " on",
+          "probability": 0.9737521409988403
+        },
+        {
+          "start": 0.66,
+          "end": 0.76,
+          "word": " the",
+          "probability": 0.9928962588310242
+        },
+        {
+          "start": 0.76,
+          "end": 0.9,
+          "word": " dirt",
+          "probability": 0.9989425539970398
+        },
+        {
+          "start": 0.9,
+          "end": 1.06,
+          "word": " in",
+          "probability": 0.982909083366394
+        },
+        {
+          "start": 1.06,
+          "end": 1.16,
+          "word": " front",
+          "probability": 0.9938389658927917
+        },
+        {
+          "start": 1.16,
+          "end": 1.26,
+          "word": " of",
+          "probability": 0.9975602626800537
+        },
+        {
+          "start": 1.26,
+          "end": 1.34,
+          "word": " your",
+          "probability": 0.9871867895126343
+        },
+        {
+          "start": 1.34,
+          "end": 1.64,
+          "word": " house,",
+          "probability": 0.9978867173194885
+        }
+      ]
+    },
+    {
+      "start": 1.86,
+      "end": 2.6,
+      "text": " and you have a driveway.",
+      "words": [
+        {
+          "start": 1.86,
+          "end": 2.0,
+          "word": " and",
+          "probability": 0.9852465391159058
+        },
+        {
+          "start": 2.0,
+          "end": 2.14,
+          "word": " you",
+          "probability": 0.9872701168060303
+        },
+        {
+          "start": 2.14,
+          "end": 2.24,
+          "word": " have",
+          "probability": 0.995254397392273
+        },
+        {
+          "start": 2.24,
+          "end": 2.34,
+          "word": " a",
+          "probability": 0.9939244389533997
+        },
+        {
+          "start": 2.34,
+          "end": 2.6,
+          "word": " driveway.",
+          "probability": 0.9814515709877014
+        }
+      ]
+    },
+    {
+      "start": 3.06,
+      "end": 4.36,
+      "text": " But the dirt underneath is soft,",
+      "words": [
+        {
+          "start": 3.06,
+          "end": 3.12,
+          "word": " But",
+          "probability": 0.9745862483978271
+        },
+        {
+          "start": 3.12,
+          "end": 3.24,
+          "word": " the",
+          "probability": 0.9720295071601868
+        },
+        {
+          "start": 3.24,
+          "end": 3.38,
+          "word": " dirt",
+          "probability": 0.9992620348930359
+        },
+        {
+          "start": 3.38,
+          "end": 3.78,
+          "word": " underneath",
+          "probability": 0.9949802756309509
+        },
+        {
+          "start": 3.78,
+          "end": 4.02,
+          "word": " is",
+          "probability": 0.9917901754379272
+        },
+        {
+          "start": 4.02,
+          "end": 4.36,
+          "word": " soft,",
+          "probability": 0.9941100478172302
+        }
+      ]
+    },
+    {
+      "start": 4.6,
+      "end": 5.8,
+      "text": " and after a week of parking on it,",
+      "words": [
+        {
+          "start": 4.6,
+          "end": 4.68,
+          "word": " and",
+          "probability": 0.9892416596412659
+        },
+        {
+          "start": 4.68,
+          "end": 4.9,
+          "word": " after",
+          "probability": 0.9896374940872192
+        },
+        {
+          "start": 4.9,
+          "end": 5.02,
+          "word": " a",
+          "probability": 0.9962958693504333
+        },
+        {
+          "start": 5.02,
+          "end": 5.1,
+          "word": " week",
+          "probability": 0.9972374439239502
+        },
+        {
+          "start": 5.1,
+          "end": 5.24,
+          "word": " of",
+          "probability": 0.9957595467567444
+        },
+        {
+          "start": 5.24,
+          "end": 5.48,
+          "word": " parking",
+          "probability": 0.9979522228240967
+        },
+        {
+          "start": 5.48,
+          "end": 5.66,
+          "word": " on",
+          "probability": 0.9935756325721741
+        },
+        {
+          "start": 5.66,
+          "end": 5.8,
+          "word": " it,",
+          "probability": 0.9981583952903748
+        }
+      ]
+    },
+    {
+      "start": 5.92,
+      "end": 7.14,
+      "text": " the slab sinks and cracks.",
+      "words": [
+        {
+          "start": 5.92,
+          "end": 6.02,
+          "word": " the",
+          "probability": 0.9929627776145935
+        },
+        {
+          "start": 6.02,
+          "end": 6.18,
+          "word": " slab",
+          "probability": 0.9954547882080078
+        },
+        {
+          "start": 6.18,
+          "end": 6.52,
+          "word": " sinks",
+          "probability": 0.967015266418457
+        },
+        {
+          "start": 6.52,
+          "end": 6.8,
+          "word": " and",
+          "probability": 0.9922425746917725
+        },
+        {
+          "start": 6.8,
+          "end": 7.14,
+          "word": " cracks.",
+          "probability": 0.9967137575149536
+        }
+      ]
+    },
+    {
+      "start": 7.64,
+      "end": 9.64,
+      "text": " So you dig out the dirt, pack in crushed rock,",
+      "words": [
+        {
+          "start": 7.64,
+          "end": 7.78,
+          "word": " So",
+          "probability": 0.9941828846931458
+        },
+        {
+          "start": 7.78,
+          "end": 7.96,
+          "word": " you",
+          "probability": 0.5785906314849854
+        },
+        {
+          "start": 7.96,
+          "end": 8.14,
+          "word": " dig",
+          "probability": 0.9986086487770081
+        },
+        {
+          "start": 8.14,
+          "end": 8.28,
+          "word": " out",
+          "probability": 0.9973279237747192
+        },
+        {
+          "start": 8.28,
+          "end": 8.4,
+          "word": " the",
+          "probability": 0.9951086640357971
+        },
+        {
+          "start": 8.4,
+          "end": 8.6,
+          "word": " dirt,",
+          "probability": 0.9995706677436829
+        },
+        {
+          "start": 8.82,
+          "end": 9.0,
+          "word": " pack",
+          "probability": 0.9973817467689514
+        },
+        {
+          "start": 9.0,
+          "end": 9.14,
+          "word": " in",
+          "probability": 0.9591099619865417
+        },
+        {
+          "start": 9.14,
+          "end": 9.34,
+          "word": " crushed",
+          "probability": 0.9986832737922668
+        },
+        {
+          "start": 9.34,
+          "end": 9.64,
+          "word": " rock,",
+          "probability": 0.9968675971031189
+        }
+      ]
+    },
+    {
+      "start": 9.74,
+      "end": 10.58,
+      "text": " and pour on top of that.",
+      "words": [
+        {
+          "start": 9.74,
+          "end": 9.86,
+          "word": " and",
+          "probability": 0.9978988170623779
+        },
+        {
+          "start": 9.86,
+          "end": 10.02,
+          "word": " pour",
+          "probability": 0.9979751706123352
+        },
+        {
+          "start": 10.02,
+          "end": 10.14,
+          "word": " on",
+          "probability": 0.9961269497871399
+        },
+        {
+          "start": 10.14,
+          "end": 10.28,
+          "word": " top",
+          "probability": 0.9960646033287048
+        },
+        {
+          "start": 10.28,
+          "end": 10.4,
+          "word": " of",
+          "probability": 0.9981387853622437
+        },
+        {
+          "start": 10.4,
+          "end": 10.58,
+          "word": " that.",
+          "probability": 0.9987133741378784
+        }
+      ]
+    },
+    {
+      "start": 10.96,
+      "end": 11.82,
+      "text": " This is the base.",
+      "words": [
+        {
+          "start": 10.96,
+          "end": 11.2,
+          "word": " This",
+          "probability": 0.9875543713569641
+        },
+        {
+          "start": 11.2,
+          "end": 11.44,
+          "word": " is",
+          "probability": 0.9875083565711975
+        },
+        {
+          "start": 11.44,
+          "end": 11.58,
+          "word": " the",
+          "probability": 0.9978744983673096
+        },
+        {
+          "start": 11.58,
+          "end": 11.82,
+          "word": " base.",
+          "probability": 0.9890783429145813
+        }
+      ]
+    },
+    {
+      "start": 12.22,
+      "end": 14.72,
+      "text": " But as the concrete dries, it shrinks like mud in the sun,",
+      "words": [
+        {
+          "start": 12.22,
+          "end": 12.32,
+          "word": " But",
+          "probability": 0.9886587262153625
+        },
+        {
+          "start": 12.32,
+          "end": 12.4,
+          "word": " as",
+          "probability": 0.9932771325111389
+        },
+        {
+          "start": 12.4,
+          "end": 12.54,
+          "word": " the",
+          "probability": 0.9949613809585571
+        },
+        {
+          "start": 12.54,
+          "end": 12.84,
+          "word": " concrete",
+          "probability": 0.9998278617858887
+        },
+        {
+          "start": 12.84,
+          "end": 13.3,
+          "word": " dries,",
+          "probability": 0.9983110427856445
+        },
+        {
+          "start": 13.4,
+          "end": 13.52,
+          "word": " it",
+          "probability": 0.9957786798477173
+        },
+        {
+          "start": 13.52,
+          "end": 13.86,
+          "word": " shrinks",
+          "probability": 0.9985875189304352
+        },
+        {
+          "start": 13.86,
+          "end": 14.06,
+          "word": " like",
+          "probability": 0.9052764177322388
+        },
+        {
+          "start": 14.06,
+          "end": 14.28,
+          "word": " mud",
+          "probability": 0.9995014667510986
+        },
+        {
+          "start": 14.28,
+          "end": 14.4,
+          "word": " in",
+          "probability": 0.9979276657104492
+        },
+        {
+          "start": 14.4,
+          "end": 14.52,
+          "word": " the",
+          "probability": 0.999333918094635
+        },
+        {
+          "start": 14.52,
+          "end": 14.72,
+          "word": " sun,",
+          "probability": 0.9769645929336548
+        }
+      ]
+    },
+    {
+      "start": 14.84,
+      "end": 15.96,
+      "text": " and splits right down the middle.",
+      "words": [
+        {
+          "start": 14.84,
+          "end": 14.92,
+          "word": " and",
+          "probability": 0.9942265748977661
+        },
+        {
+          "start": 14.92,
+          "end": 15.18,
+          "word": " splits",
+          "probability": 0.9960143566131592
+        },
+        {
+          "start": 15.18,
+          "end": 15.48,
+          "word": " right",
+          "probability": 0.989679217338562
+        },
+        {
+          "start": 15.48,
+          "end": 15.68,
+          "word": " down",
+          "probability": 0.9982597231864929
+        },
+        {
+          "start": 15.68,
+          "end": 15.78,
+          "word": " the",
+          "probability": 0.9972833395004272
+        },
+        {
+          "start": 15.78,
+          "end": 15.96,
+          "word": " middle.",
+          "probability": 0.9992337226867676
+        }
+      ]
+    },
+    {
+      "start": 16.36,
+      "end": 18.3,
+      "text": " So you lay steel bars inside to hold it together.",
+      "words": [
+        {
+          "start": 16.36,
+          "end": 16.54,
+          "word": " So",
+          "probability": 0.9945665597915649
+        },
+        {
+          "start": 16.54,
+          "end": 16.7,
+          "word": " you",
+          "probability": 0.7975053787231445
+        },
+        {
+          "start": 16.7,
+          "end": 16.84,
+          "word": " lay",
+          "probability": 0.9954677820205688
+        },
+        {
+          "start": 16.84,
+          "end": 17.1,
+          "word": " steel",
+          "probability": 0.9969239830970764
+        },
+        {
+          "start": 17.1,
+          "end": 17.3,
+          "word": " bars",
+          "probability": 0.990221381187439
+        },
+        {
+          "start": 17.3,
+          "end": 17.62,
+          "word": " inside",
+          "probability": 0.9955989122390747
+        },
+        {
+          "start": 17.62,
+          "end": 17.82,
+          "word": " to",
+          "probability": 0.9576413631439209
+        },
+        {
+          "start": 17.82,
+          "end": 17.94,
+          "word": " hold",
+          "probability": 0.9993628859519958
+        },
+        {
+          "start": 17.94,
+          "end": 18.04,
+          "word": " it",
+          "probability": 0.9977158308029175
+        },
+        {
+          "start": 18.04,
+          "end": 18.3,
+          "word": " together.",
+          "probability": 0.9991301894187927
+        }
+      ]
+    },
+    {
+      "start": 18.64,
+      "end": 19.52,
+      "text": " This is rebar.",
+      "words": [
+        {
+          "start": 18.64,
+          "end": 18.88,
+          "word": " This",
+          "probability": 0.9953590035438538
+        },
+        {
+          "start": 18.88,
+          "end": 19.12,
+          "word": " is",
+          "probability": 0.9940978288650513
+        },
+        {
+          "start": 19.12,
+          "end": 19.52,
+          "word": " rebar.",
+          "probability": 0.9815043210983276
+        }
+      ]
+    },
+    {
+      "start": 19.86,
+      "end": 21.46,
+      "text": " But the steel only keeps the pieces tight.",
+      "words": [
+        {
+          "start": 19.86,
+          "end": 19.98,
+          "word": " But",
+          "probability": 0.994692862033844
+        },
+        {
+          "start": 19.98,
+          "end": 20.1,
+          "word": " the",
+          "probability": 0.9968851208686829
+        },
+        {
+          "start": 20.1,
+          "end": 20.28,
+          "word": " steel",
+          "probability": 0.9987585544586182
+        },
+        {
+          "start": 20.28,
+          "end": 20.52,
+          "word": " only",
+          "probability": 0.9967798590660095
+        },
+        {
+          "start": 20.52,
+          "end": 20.72,
+          "word": " keeps",
+          "probability": 0.9909448623657227
+        },
+        {
+          "start": 20.72,
+          "end": 20.88,
+          "word": " the",
+          "probability": 0.9989141225814819
+        },
+        {
+          "start": 20.88,
+          "end": 21.1,
+          "word": " pieces",
+          "probability": 0.9942447543144226
+        },
+        {
+          "start": 21.1,
+          "end": 21.46,
+          "word": " tight.",
+          "probability": 0.9984728693962097
+        }
+      ]
+    },
+    {
+      "start": 21.78,
+      "end": 23.42,
+      "text": " The concrete still cracks wherever it wants.",
+      "words": [
+        {
+          "start": 21.78,
+          "end": 21.88,
+          "word": " The",
+          "probability": 0.995398223400116
+        },
+        {
+          "start": 21.88,
+          "end": 22.16,
+          "word": " concrete",
+          "probability": 0.9996770620346069
+        },
+        {
+          "start": 22.16,
+          "end": 22.42,
+          "word": " still",
+          "probability": 0.9987528324127197
+        },
+        {
+          "start": 22.42,
+          "end": 22.74,
+          "word": " cracks",
+          "probability": 0.9992297887802124
+        },
+        {
+          "start": 22.74,
+          "end": 22.96,
+          "word": " wherever",
+          "probability": 0.9635432958602905
+        },
+        {
+          "start": 22.96,
+          "end": 23.16,
+          "word": " it",
+          "probability": 0.9986698627471924
+        },
+        {
+          "start": 23.16,
+          "end": 23.42,
+          "word": " wants.",
+          "probability": 0.9990386962890625
+        }
+      ]
+    },
+    {
+      "start": 23.78,
+      "end": 25.42,
+      "text": " So you cut lines across the slab,",
+      "words": [
+        {
+          "start": 23.78,
+          "end": 23.98,
+          "word": " So",
+          "probability": 0.995301365852356
+        },
+        {
+          "start": 23.98,
+          "end": 24.18,
+          "word": " you",
+          "probability": 0.8319904804229736
+        },
+        {
+          "start": 24.18,
+          "end": 24.34,
+          "word": " cut",
+          "probability": 0.9986028075218201
+        },
+        {
+          "start": 24.34,
+          "end": 24.64,
+          "word": " lines",
+          "probability": 0.99615877866745
+        },
+        {
+          "start": 24.64,
+          "end": 24.92,
+          "word": " across",
+          "probability": 0.9988163709640503
+        },
+        {
+          "start": 24.92,
+          "end": 25.16,
+          "word": " the",
+          "probability": 0.9989830851554871
+        },
+        {
+          "start": 25.16,
+          "end": 25.42,
+          "word": " slab,",
+          "probability": 0.998746395111084
+        }
+      ]
+    },
+    {
+      "start": 25.56,
+      "end": 27.78,
+      "text": " and each small square has less pressure pulling it apart.",
+      "words": [
+        {
+          "start": 25.56,
+          "end": 25.64,
+          "word": " and",
+          "probability": 0.997432291507721
+        },
+        {
+          "start": 25.64,
+          "end": 25.84,
+          "word": " each",
+          "probability": 0.9990823268890381
+        },
+        {
+          "start": 25.84,
+          "end": 26.14,
+          "word": " small",
+          "probability": 0.9982600808143616
+        },
+        {
+          "start": 26.14,
+          "end": 26.38,
+          "word": " square",
+          "probability": 0.9980418682098389
+        },
+        {
+          "start": 26.38,
+          "end": 26.6,
+          "word": " has",
+          "probability": 0.997733473777771
+        },
+        {
+          "start": 26.6,
+          "end": 26.84,
+          "word": " less",
+          "probability": 0.9986515641212463
+        },
+        {
+          "start": 26.84,
+          "end": 27.16,
+          "word": " pressure",
+          "probability": 0.9993701577186584
+        },
+        {
+          "start": 27.16,
+          "end": 27.38,
+          "word": " pulling",
+          "probability": 0.9957987666130066
+        },
+        {
+          "start": 27.38,
+          "end": 27.54,
+          "word": " it",
+          "probability": 0.9981829524040222
+        },
+        {
+          "start": 27.54,
+          "end": 27.78,
+          "word": " apart.",
+          "probability": 0.9983855485916138
+        }
+      ]
+    },
+    {
+      "start": 28.1,
+      "end": 29.14,
+      "text": " These are control joints,",
+      "words": [
+        {
+          "start": 28.1,
+          "end": 28.34,
+          "word": " These",
+          "probability": 0.9963164329528809
+        },
+        {
+          "start": 28.34,
+          "end": 28.52,
+          "word": " are",
+          "probability": 0.9992181062698364
+        },
+        {
+          "start": 28.52,
+          "end": 28.86,
+          "word": " control",
+          "probability": 0.9970184564590454
+        },
+        {
+          "start": 28.86,
+          "end": 29.14,
+          "word": " joints,",
+          "probability": 0.9958582520484924
+        }
+      ]
+    },
+    {
+      "start": 29.14,
+      "end": 31.18,
+      "text": " and a cheap crew spaces them too far apart.",
+      "words": [
+        {
+          "start": 29.14,
+          "end": 29.48,
+          "word": " and",
+          "probability": 0.6515551209449768
+        },
+        {
+          "start": 29.48,
+          "end": 29.56,
+          "word": " a",
+          "probability": 0.990196168422699
+        },
+        {
+          "start": 29.56,
+          "end": 29.74,
+          "word": " cheap",
+          "probability": 0.9029721617698669
+        },
+        {
+          "start": 29.74,
+          "end": 29.98,
+          "word": " crew",
+          "probability": 0.9567661285400391
+        },
+        {
+          "start": 29.98,
+          "end": 30.26,
+          "word": " spaces",
+          "probability": 0.975970983505249
+        },
+        {
+          "start": 30.26,
+          "end": 30.5,
+          "word": " them",
+          "probability": 0.9975735545158386
+        },
+        {
+          "start": 30.5,
+          "end": 30.7,
+          "word": " too",
+          "probability": 0.9835561513900757
+        },
+        {
+          "start": 30.7,
+          "end": 30.9,
+          "word": " far",
+          "probability": 0.999478280544281
+        },
+        {
+          "start": 30.9,
+          "end": 31.18,
+          "word": " apart.",
+          "probability": 0.9949755668640137
+        }
+      ]
+    },
+    {
+      "start": 31.46,
+      "end": 33.08,
+      "text": " That's what the lines in every sidewalk are for.",
+      "words": [
+        {
+          "start": 31.46,
+          "end": 31.64,
+          "word": " That's",
+          "probability": 0.9886748492717743
+        },
+        {
+          "start": 31.64,
+          "end": 31.72,
+          "word": " what",
+          "probability": 0.9705725312232971
+        },
+        {
+          "start": 31.72,
+          "end": 31.84,
+          "word": " the",
+          "probability": 0.9856479167938232
+        },
+        {
+          "start": 31.84,
+          "end": 32.0,
+          "word": " lines",
+          "probability": 0.7562106847763062
+        },
+        {
+          "start": 32.0,
+          "end": 32.14,
+          "word": " in",
+          "probability": 0.9293134808540344
+        },
+        {
+          "start": 32.14,
+          "end": 32.36,
+          "word": " every",
+          "probability": 0.9959480166435242
+        },
+        {
+          "start": 32.36,
+          "end": 32.64,
+          "word": " sidewalk",
+          "probability": 0.9029451608657837
+        },
+        {
+          "start": 32.64,
+          "end": 32.88,
+          "word": " are",
+          "probability": 0.9850000143051147
+        },
+        {
+          "start": 32.88,
+          "end": 33.08,
+          "word": " for.",
+          "probability": 0.9986131191253662
+        }
+      ]
+    },
+    {
+      "start": 33.3,
+      "end": 35.16,
+      "text": " When a square does crack, it cracks in the line.",
+      "words": [
+        {
+          "start": 33.3,
+          "end": 33.42,
+          "word": " When",
+          "probability": 0.9936122298240662
+        },
+        {
+          "start": 33.42,
+          "end": 33.58,
+          "word": " a",
+          "probability": 0.9885176420211792
+        },
+        {
+          "start": 33.58,
+          "end": 33.7,
+          "word": " square",
+          "probability": 0.9968386888504028
+        },
+        {
+          "start": 33.7,
+          "end": 33.96,
+          "word": " does",
+          "probability": 0.9870591163635254
+        },
+        {
+          "start": 33.96,
+          "end": 34.26,
+          "word": " crack,",
+          "probability": 0.9939360022544861
+        },
+        {
+          "start": 34.4,
+          "end": 34.54,
+          "word": " it",
+          "probability": 0.9930087327957153
+        },
+        {
+          "start": 34.54,
+          "end": 34.74,
+          "word": " cracks",
+          "probability": 0.9979518055915833
+        },
+        {
+          "start": 34.74,
+          "end": 34.88,
+          "word": " in",
+          "probability": 0.9850786924362183
+        },
+        {
+          "start": 34.88,
+          "end": 34.96,
+          "word": " the",
+          "probability": 0.9828611612319946
+        },
+        {
+          "start": 34.96,
+          "end": 35.16,
+          "word": " line.",
+          "probability": 0.9975277781486511
+        }
+      ]
+    },
+    {
+      "start": 35.54,
+      "end": 37.3,
+      "text": " Now your driveway is a set of neat squares.",
+      "words": [
+        {
+          "start": 35.54,
+          "end": 35.66,
+          "word": " Now",
+          "probability": 0.9975237250328064
+        },
+        {
+          "start": 35.66,
+          "end": 35.8,
+          "word": " your",
+          "probability": 0.9148446917533875
+        },
+        {
+          "start": 35.8,
+          "end": 36.08,
+          "word": " driveway",
+          "probability": 0.9985069632530212
+        },
+        {
+          "start": 36.08,
+          "end": 36.3,
+          "word": " is",
+          "probability": 0.997007429599762
+        },
+        {
+          "start": 36.3,
+          "end": 36.44,
+          "word": " a",
+          "probability": 0.9942680597305298
+        },
+        {
+          "start": 36.44,
+          "end": 36.58,
+          "word": " set",
+          "probability": 0.998996913433075
+        },
+        {
+          "start": 36.58,
+          "end": 36.74,
+          "word": " of",
+          "probability": 0.9988096952438354
+        },
+        {
+          "start": 36.74,
+          "end": 36.92,
+          "word": " neat",
+          "probability": 0.9979004859924316
+        },
+        {
+          "start": 36.92,
+          "end": 37.3,
+          "word": " squares.",
+          "probability": 0.9970448613166809
+        }
+      ]
+    },
+    {
+      "start": 37.74,
+      "end": 38.58,
+      "text": " But a few years later,",
+      "words": [
+        {
+          "start": 37.74,
+          "end": 37.86,
+          "word": " But",
+          "probability": 0.9887991547584534
+        },
+        {
+          "start": 37.86,
+          "end": 37.94,
+          "word": " a",
+          "probability": 0.9803118705749512
+        },
+        {
+          "start": 37.94,
+          "end": 38.08,
+          "word": " few",
+          "probability": 0.9994131326675415
+        },
+        {
+          "start": 38.08,
+          "end": 38.24,
+          "word": " years",
+          "probability": 0.9983397722244263
+        },
+        {
+          "start": 38.24,
+          "end": 38.58,
+          "word": " later,",
+          "probability": 0.9985173344612122
+        }
+      ]
+    },
+    {
+      "start": 38.68,
+      "end": 40.36,
+      "text": " your tree's roots push under one square",
+      "words": [
+        {
+          "start": 38.68,
+          "end": 38.82,
+          "word": " your",
+          "probability": 0.9886987805366516
+        },
+        {
+          "start": 38.82,
+          "end": 39.18,
+          "word": " tree's",
+          "probability": 0.7671763598918915
+        },
+        {
+          "start": 39.18,
+          "end": 39.3,
+          "word": " roots",
+          "probability": 0.9962228536605835
+        },
+        {
+          "start": 39.3,
+          "end": 39.6,
+          "word": " push",
+          "probability": 0.9939987659454346
+        },
+        {
+          "start": 39.6,
+          "end": 39.88,
+          "word": " under",
+          "probability": 0.9974111914634705
+        },
+        {
+          "start": 39.88,
+          "end": 40.1,
+          "word": " one",
+          "probability": 0.9931046366691589
+        },
+        {
+          "start": 40.1,
+          "end": 40.36,
+          "word": " square",
+          "probability": 0.9966880679130554
+        }
+      ]
+    },
+    {
+      "start": 40.36,
+      "end": 41.58,
+      "text": " and lift it like a trap door.",
+      "words": [
+        {
+          "start": 40.36,
+          "end": 40.56,
+          "word": " and",
+          "probability": 0.9311315417289734
+        },
+        {
+          "start": 40.56,
+          "end": 40.78,
+          "word": " lift",
+          "probability": 0.9932716488838196
+        },
+        {
+          "start": 40.78,
+          "end": 40.92,
+          "word": " it",
+          "probability": 0.9986261129379272
+        },
+        {
+          "start": 40.92,
+          "end": 41.04,
+          "word": " like",
+          "probability": 0.968920111656189
+        },
+        {
+          "start": 41.04,
+          "end": 41.2,
+          "word": " a",
+          "probability": 0.9983710646629333
+        },
+        {
+          "start": 41.2,
+          "end": 41.36,
+          "word": " trap",
+          "probability": 0.9816787838935852
+        },
+        {
+          "start": 41.36,
+          "end": 41.58,
+          "word": " door.",
+          "probability": 0.29382139444351196
+        }
+      ]
+    },
+    {
+      "start": 41.9,
+      "end": 42.8,
+      "text": " Now it's a trip edge.",
+      "words": [
+        {
+          "start": 41.9,
+          "end": 42.12,
+          "word": " Now",
+          "probability": 0.9978154897689819
+        },
+        {
+          "start": 42.12,
+          "end": 42.34,
+          "word": " it's",
+          "probability": 0.8399695158004761
+        },
+        {
+          "start": 42.34,
+          "end": 42.42,
+          "word": " a",
+          "probability": 0.9975455403327942
+        },
+        {
+          "start": 42.42,
+          "end": 42.58,
+          "word": " trip",
+          "probability": 0.9720021486282349
+        },
+        {
+          "start": 42.58,
+          "end": 42.8,
+          "word": " edge.",
+          "probability": 0.941311240196228
+        }
+      ]
+    },
+    {
+      "start": 42.98,
+      "end": 44.08,
+      "text": " So you jackhammer it out,",
+      "words": [
+        {
+          "start": 42.98,
+          "end": 43.18,
+          "word": " So",
+          "probability": 0.9923213124275208
+        },
+        {
+          "start": 43.18,
+          "end": 43.36,
+          "word": " you",
+          "probability": 0.6933242678642273
+        },
+        {
+          "start": 43.36,
+          "end": 43.74,
+          "word": " jackhammer",
+          "probability": 0.8973825871944427
+        },
+        {
+          "start": 43.74,
+          "end": 43.88,
+          "word": " it",
+          "probability": 0.9941470623016357
+        },
+        {
+          "start": 43.88,
+          "end": 44.08,
+          "word": " out,",
+          "probability": 0.9972816705703735
+        }
+      ]
+    },
+    {
+      "start": 44.24,
+      "end": 45.6,
+      "text": " cut the root, and pour new concrete",
+      "words": [
+        {
+          "start": 44.24,
+          "end": 44.38,
+          "word": " cut",
+          "probability": 0.9992069602012634
+        },
+        {
+          "start": 44.38,
+          "end": 44.52,
+          "word": " the",
+          "probability": 0.9986842274665833
+        },
+        {
+          "start": 44.52,
+          "end": 44.68,
+          "word": " root,",
+          "probability": 0.82742840051651
+        },
+        {
+          "start": 44.8,
+          "end": 44.9,
+          "word": " and",
+          "probability": 0.9987937211990356
+        },
+        {
+          "start": 44.9,
+          "end": 45.06,
+          "word": " pour",
+          "probability": 0.9886051416397095
+        },
+        {
+          "start": 45.06,
+          "end": 45.26,
+          "word": " new",
+          "probability": 0.9762998223304749
+        },
+        {
+          "start": 45.26,
+          "end": 45.6,
+          "word": " concrete",
+          "probability": 0.9996849298477173
+        }
+      ]
+    },
+    {
+      "start": 45.6,
+      "end": 46.6,
+      "text": " that never quite matches.",
+      "words": [
+        {
+          "start": 45.6,
+          "end": 45.8,
+          "word": " that",
+          "probability": 0.9361822009086609
+        },
+        {
+          "start": 45.8,
+          "end": 46.02,
+          "word": " never",
+          "probability": 0.9990314245223999
+        },
+        {
+          "start": 46.02,
+          "end": 46.26,
+          "word": " quite",
+          "probability": 0.9993072748184204
+        },
+        {
+          "start": 46.26,
+          "end": 46.6,
+          "word": " matches.",
+          "probability": 0.9955170750617981
+        }
+      ]
+    },
+    {
+      "start": 47.06,
+      "end": 49.2,
+      "text": " So what if every square was small enough to pick up?",
+      "words": [
+        {
+          "start": 47.06,
+          "end": 47.22,
+          "word": " So",
+          "probability": 0.9939414262771606
+        },
+        {
+          "start": 47.22,
+          "end": 47.44,
+          "word": " what",
+          "probability": 0.885970413684845
+        },
+        {
+          "start": 47.44,
+          "end": 47.56,
+          "word": " if",
+          "probability": 0.9979875087738037
+        },
+        {
+          "start": 47.56,
+          "end": 47.88,
+          "word": " every",
+          "probability": 0.9982398748397827
+        },
+        {
+          "start": 47.88,
+          "end": 48.16,
+          "word": " square",
+          "probability": 0.9978030323982239
+        },
+        {
+          "start": 48.16,
+          "end": 48.32,
+          "word": " was",
+          "probability": 0.9963807463645935
+        },
+        {
+          "start": 48.32,
+          "end": 48.52,
+          "word": " small",
+          "probability": 0.9996297359466553
+        },
+        {
+          "start": 48.52,
+          "end": 48.68,
+          "word": " enough",
+          "probability": 0.999756395816803
+        },
+        {
+          "start": 48.68,
+          "end": 48.84,
+          "word": " to",
+          "probability": 0.9994864463806152
+        },
+        {
+          "start": 48.84,
+          "end": 48.98,
+          "word": " pick",
+          "probability": 0.9950101375579834
+        },
+        {
+          "start": 48.98,
+          "end": 49.2,
+          "word": " up?",
+          "probability": 0.9991185069084167
+        }
+      ]
+    },
+    {
+      "start": 49.48,
+      "end": 51.48,
+      "text": " You shrink each square down to the size of a brick,",
+      "words": [
+        {
+          "start": 49.48,
+          "end": 49.66,
+          "word": " You",
+          "probability": 0.9964359998703003
+        },
+        {
+          "start": 49.66,
+          "end": 49.86,
+          "word": " shrink",
+          "probability": 0.9989455342292786
+        },
+        {
+          "start": 49.86,
+          "end": 50.06,
+          "word": " each",
+          "probability": 0.9994152784347534
+        },
+        {
+          "start": 50.06,
+          "end": 50.32,
+          "word": " square",
+          "probability": 0.9945031404495239
+        },
+        {
+          "start": 50.32,
+          "end": 50.56,
+          "word": " down",
+          "probability": 0.9985495209693909
+        },
+        {
+          "start": 50.56,
+          "end": 50.7,
+          "word": " to",
+          "probability": 0.9985343217849731
+        },
+        {
+          "start": 50.7,
+          "end": 50.8,
+          "word": " the",
+          "probability": 0.999255359172821
+        },
+        {
+          "start": 50.8,
+          "end": 51.02,
+          "word": " size",
+          "probability": 0.9964157342910767
+        },
+        {
+          "start": 51.02,
+          "end": 51.14,
+          "word": " of",
+          "probability": 0.9989948868751526
+        },
+        {
+          "start": 51.14,
+          "end": 51.24,
+          "word": " a",
+          "probability": 0.9960981607437134
+        },
+        {
+          "start": 51.24,
+          "end": 51.48,
+          "word": " brick,",
+          "probability": 0.999554455280304
+        }
+      ]
+    },
+    {
+      "start": 51.66,
+      "end": 52.82,
+      "text": " and instead of gluing them together,",
+      "words": [
+        {
+          "start": 51.66,
+          "end": 51.86,
+          "word": " and",
+          "probability": 0.9948337078094482
+        },
+        {
+          "start": 51.86,
+          "end": 52.08,
+          "word": " instead",
+          "probability": 0.9944944977760315
+        },
+        {
+          "start": 52.08,
+          "end": 52.2,
+          "word": " of",
+          "probability": 0.999338686466217
+        },
+        {
+          "start": 52.2,
+          "end": 52.36,
+          "word": " gluing",
+          "probability": 0.9788853228092194
+        },
+        {
+          "start": 52.36,
+          "end": 52.5,
+          "word": " them",
+          "probability": 0.9971709847450256
+        },
+        {
+          "start": 52.5,
+          "end": 52.82,
+          "word": " together,",
+          "probability": 0.999196469783783
+        }
+      ]
+    },
+    {
+      "start": 53.0,
+      "end": 53.78,
+      "text": " you set them on sand.",
+      "words": [
+        {
+          "start": 53.0,
+          "end": 53.14,
+          "word": " you",
+          "probability": 0.9955162405967712
+        },
+        {
+          "start": 53.14,
+          "end": 53.28,
+          "word": " set",
+          "probability": 0.9984946250915527
+        },
+        {
+          "start": 53.28,
+          "end": 53.4,
+          "word": " them",
+          "probability": 0.9989567995071411
+        },
+        {
+          "start": 53.4,
+          "end": 53.54,
+          "word": " on",
+          "probability": 0.9977810978889465
+        },
+        {
+          "start": 53.54,
+          "end": 53.78,
+          "word": " sand.",
+          "probability": 0.9991004467010498
+        }
+      ]
+    },
+    {
+      "start": 54.18,
+      "end": 55.0,
+      "text": " These are pavers.",
+      "words": [
+        {
+          "start": 54.18,
+          "end": 54.4,
+          "word": " These",
+          "probability": 0.9964300990104675
+        },
+        {
+          "start": 54.4,
+          "end": 54.64,
+          "word": " are",
+          "probability": 0.9990803003311157
+        },
+        {
+          "start": 54.64,
+          "end": 55.0,
+          "word": " pavers.",
+          "probability": 0.9930544197559357
+        }
+      ]
+    },
+    {
+      "start": 55.4,
+      "end": 56.54,
+      "text": " Now when a root lifts a few,",
+      "words": [
+        {
+          "start": 55.4,
+          "end": 55.6,
+          "word": " Now",
+          "probability": 0.9977578520774841
+        },
+        {
+          "start": 55.6,
+          "end": 55.76,
+          "word": " when",
+          "probability": 0.6321976184844971
+        },
+        {
+          "start": 55.76,
+          "end": 55.84,
+          "word": " a",
+          "probability": 0.9940541386604309
+        },
+        {
+          "start": 55.84,
+          "end": 56.0,
+          "word": " root",
+          "probability": 0.9665920734405518
+        },
+        {
+          "start": 56.0,
+          "end": 56.24,
+          "word": " lifts",
+          "probability": 0.9832000732421875
+        },
+        {
+          "start": 56.24,
+          "end": 56.38,
+          "word": " a",
+          "probability": 0.9973918199539185
+        },
+        {
+          "start": 56.38,
+          "end": 56.54,
+          "word": " few,",
+          "probability": 0.9994506239891052
+        }
+      ]
+    },
+    {
+      "start": 56.7,
+      "end": 57.88,
+      "text": " you pull them up, trim the root,",
+      "words": [
+        {
+          "start": 56.7,
+          "end": 56.8,
+          "word": " you",
+          "probability": 0.9976129531860352
+        },
+        {
+          "start": 56.8,
+          "end": 56.94,
+          "word": " pull",
+          "probability": 0.9991231560707092
+        },
+        {
+          "start": 56.94,
+          "end": 57.06,
+          "word": " them",
+          "probability": 0.9984109401702881
+        },
+        {
+          "start": 57.06,
+          "end": 57.26,
+          "word": " up,",
+          "probability": 0.9991248250007629
+        },
+        {
+          "start": 57.44,
+          "end": 57.58,
+          "word": " trim",
+          "probability": 0.999545156955719
+        },
+        {
+          "start": 57.58,
+          "end": 57.7,
+          "word": " the",
+          "probability": 0.9980054497718811
+        },
+        {
+          "start": 57.7,
+          "end": 57.88,
+          "word": " root,",
+          "probability": 0.9861017465591431
+        }
+      ]
+    },
+    {
+      "start": 57.88,
+      "end": 59.14,
+      "text": " and put the same pavers back.",
+      "words": [
+        {
+          "start": 57.88,
+          "end": 58.06,
+          "word": " and",
+          "probability": 0.8828243017196655
+        },
+        {
+          "start": 58.06,
+          "end": 58.18,
+          "word": " put",
+          "probability": 0.9956569671630859
+        },
+        {
+          "start": 58.18,
+          "end": 58.34,
+          "word": " the",
+          "probability": 0.9955103397369385
+        },
+        {
+          "start": 58.34,
+          "end": 58.56,
+          "word": " same",
+          "probability": 0.9989032745361328
+        },
+        {
+          "start": 58.56,
+          "end": 58.82,
+          "word": " pavers",
+          "probability": 0.9824288785457611
+        },
+        {
+          "start": 58.82,
+          "end": 59.14,
+          "word": " back.",
+          "probability": 0.9992356300354004
+        }
+      ]
+    },
+    {
+      "start": 59.5,
+      "end": 61.34,
+      "text": " And each paver is about three times as strong",
+      "words": [
+        {
+          "start": 59.5,
+          "end": 59.54,
+          "word": " And",
+          "probability": 0.9593711495399475
+        },
+        {
+          "start": 59.54,
+          "end": 59.74,
+          "word": " each",
+          "probability": 0.9936313033103943
+        },
+        {
+          "start": 59.74,
+          "end": 60.0,
+          "word": " paver",
+          "probability": 0.9909577071666718
+        },
+        {
+          "start": 60.0,
+          "end": 60.16,
+          "word": " is",
+          "probability": 0.997484564781189
+        },
+        {
+          "start": 60.16,
+          "end": 60.32,
+          "word": " about",
+          "probability": 0.9912735819816589
+        },
+        {
+          "start": 60.32,
+          "end": 60.64,
+          "word": " three",
+          "probability": 0.7745981812477112
+        },
+        {
+          "start": 60.64,
+          "end": 60.92,
+          "word": " times",
+          "probability": 0.994506299495697
+        },
+        {
+          "start": 60.92,
+          "end": 61.1,
+          "word": " as",
+          "probability": 0.9978808164596558
+        },
+        {
+          "start": 61.1,
+          "end": 61.34,
+          "word": " strong",
+          "probability": 0.9987351298332214
+        }
+      ]
+    },
+    {
+      "start": 61.34,
+      "end": 62.18,
+      "text": " as driveway concrete.",
+      "words": [
+        {
+          "start": 61.34,
+          "end": 61.52,
+          "word": " as",
+          "probability": 0.9972125887870789
+        },
+        {
+          "start": 61.52,
+          "end": 61.78,
+          "word": " driveway",
+          "probability": 0.9964338541030884
+        },
+        {
+          "start": 61.78,
+          "end": 62.18,
+          "word": " concrete.",
+          "probability": 0.9984117746353149
+        }
+      ]
+    },
+    {
+      "start": 62.48,
+      "end": 63.84,
+      "text": " A paver driveway doesn't crack",
+      "words": [
+        {
+          "start": 62.48,
+          "end": 62.58,
+          "word": " A",
+          "probability": 0.9927980899810791
+        },
+        {
+          "start": 62.58,
+          "end": 62.84,
+          "word": " paver",
+          "probability": 0.9556849300861359
+        },
+        {
+          "start": 62.84,
+          "end": 63.2,
+          "word": " driveway",
+          "probability": 0.9953201413154602
+        },
+        {
+          "start": 63.2,
+          "end": 63.6,
+          "word": " doesn't",
+          "probability": 0.9961048364639282
+        },
+        {
+          "start": 63.6,
+          "end": 63.84,
+          "word": " crack",
+          "probability": 0.9835364818572998
+        }
+      ]
+    },
+    {
+      "start": 63.84,
+      "end": 66.38,
+      "text": " because it's already cracked on purpose every few inches.",
+      "words": [
+        {
+          "start": 63.84,
+          "end": 64.24,
+          "word": " because",
+          "probability": 0.48203083872795105
+        },
+        {
+          "start": 64.24,
+          "end": 64.44,
+          "word": " it's",
+          "probability": 0.9909110367298126
+        },
+        {
+          "start": 64.44,
+          "end": 64.68,
+          "word": " already",
+          "probability": 0.9993476271629333
+        },
+        {
+          "start": 64.68,
+          "end": 65.0,
+          "word": " cracked",
+          "probability": 0.9981305003166199
+        },
+        {
+          "start": 65.0,
+          "end": 65.16,
+          "word": " on",
+          "probability": 0.9859522581100464
+        },
+        {
+          "start": 65.16,
+          "end": 65.44,
+          "word": " purpose",
+          "probability": 0.9972443580627441
+        },
+        {
+          "start": 65.44,
+          "end": 65.92,
+          "word": " every",
+          "probability": 0.47428470849990845
+        },
+        {
+          "start": 65.92,
+          "end": 66.12,
+          "word": " few",
+          "probability": 0.9988700747489929
+        },
+        {
+          "start": 66.12,
+          "end": 66.38,
+          "word": " inches.",
+          "probability": 0.9995474219322205
+        }
+      ]
+    }
+  ]
+}

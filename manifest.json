@@ -1,0 +1,186 @@
+{
+  "version": "1.0.0",
+  "created": "2026-11-06",
+  "upstream": {
+    "url": "https://github.com/mromidev/claude-animated-shorts",
+    "commit": "e3b817b6afc6cd413466d43f11ba31209e034bbf",
+    "role": "Structural/workflow reference; not the new visual style"
+  },
+  "sources": [
+    {
+      "id": "ref01",
+      "original_filename": "snapgram.io_jgum1fo1itz7(1).mp4",
+      "sha256": "d5f645d98ef8930968447b894d53c23d65f1e4de86282e8c8788442eb1f9bce1",
+      "file_bytes": 41700720,
+      "width": 512,
+      "height": 910,
+      "fps": 30.0,
+      "frames": 2049,
+      "duration_s": 68.3,
+      "exact_duplicate_adjacent_frames": 0,
+      "cut_candidates": [
+        1492
+      ],
+      "cut_candidates_are_not_verified_edits": true,
+      "statistics": {
+        "mean_yprime": {
+          "p05": 0.398342,
+          "p25": 0.442167,
+          "p50": 0.489868,
+          "p75": 0.591311,
+          "p95": 0.601202
+        },
+        "mean_saturation": {
+          "p05": 0.251027,
+          "p25": 0.361166,
+          "p50": 0.445008,
+          "p75": 0.561744,
+          "p95": 0.655561
+        },
+        "mean_rgb_difference": {
+          "p05": 0.287476,
+          "p25": 0.569175,
+          "p50": 0.794995,
+          "p75": 2.326917,
+          "p95": 19.747443
+        },
+        "flow_median_source_px": {
+          "p05": 0.018609,
+          "p25": 0.11448,
+          "p50": 0.141465,
+          "p75": 0.19214,
+          "p95": 15.091105
+        },
+        "flow_p95_source_px": {
+          "p05": 0.238375,
+          "p25": 0.35673,
+          "p50": 0.576065,
+          "p75": 3.58532,
+          "p95": 35.399068
+        },
+        "histogram_distance": {
+          "p05": 0.022151,
+          "p25": 0.03282,
+          "p50": 0.04032,
+          "p75": 0.054445,
+          "p95": 0.084695
+        }
+      },
+      "audio": {
+        "sample_rate_analysis": 16000,
+        "source_sample_rate": "44100",
+        "mixed_track_pitch_caveat": "Autocorrelation candidates from mixed speech/music/SFX; not a verified speaker fundamental or a voice identity."
+      }
+    },
+    {
+      "id": "ref02",
+      "original_filename": "snapgram.io_c12wj0upkl63(1).mp4",
+      "sha256": "b3431358bc08aa0fb578ec1a1eee1441680e5c39c63854b736ab5bbd04d2a800",
+      "file_bytes": 25181959,
+      "width": 512,
+      "height": 910,
+      "fps": 30.0,
+      "frames": 1245,
+      "duration_s": 41.5,
+      "exact_duplicate_adjacent_frames": 0,
+      "cut_candidates": [
+        445,
+        531,
+        665,
+        753,
+        759,
+        774,
+        976,
+        977,
+        984,
+        991,
+        992,
+        997,
+        1128
+      ],
+      "cut_candidates_are_not_verified_edits": true,
+      "statistics": {
+        "mean_yprime": {
+          "p05": 0.288851,
+          "p25": 0.372318,
+          "p50": 0.387212,
+          "p75": 0.432754,
+          "p95": 0.461982
+        },
+        "mean_saturation": {
+          "p05": 0.39186,
+          "p25": 0.402385,
+          "p50": 0.440739,
+          "p75": 0.509346,
+          "p95": 0.593285
+        },
+        "mean_rgb_difference": {
+          "p05": 0.070229,
+          "p25": 1.619805,
+          "p50": 2.3769,
+          "p75": 3.40676,
+          "p95": 7.705872
+        },
+        "flow_median_source_px": {
+          "p05": 0.005575,
+          "p25": 0.039743,
+          "p50": 0.132,
+          "p75": 0.276025,
+          "p95": 2.397224
+        },
+        "flow_p95_source_px": {
+          "p05": 0.082658,
+          "p25": 1.870362,
+          "p50": 4.12113,
+          "p75": 6.972408,
+          "p95": 13.696071
+        },
+        "histogram_distance": {
+          "p05": 0.016096,
+          "p25": 0.041188,
+          "p50": 0.051705,
+          "p75": 0.064895,
+          "p95": 0.108817
+        }
+      },
+      "audio": {
+        "sample_rate_analysis": 16000,
+        "source_sample_rate": "44100",
+        "mixed_track_pitch_caveat": "Autocorrelation candidates from mixed speech/music/SFX; not a verified speaker fundamental or a voice identity."
+      }
+    }
+  ],
+  "review": {
+    "total_native_frames": 3294,
+    "total_sequential_sheets": 56,
+    "sequential_sheets_inspected": 56,
+    "all_frames_numerically_analyzed": true,
+    "native_30fps_timestamps_verified": true,
+    "visual_method": "All consecutive frames viewed on 60-frame sheets; representative native-size stills additionally inspected. Not all frames inspected separately full-size.",
+    "audio_method": "Automatic word-timed transcription, mixed-track autocorrelation and EBU R128 analysis; subjective timbre not verified by direct listening.",
+    "selected_native_stills": {
+      "ref01": [
+        140,
+        800
+      ],
+      "ref02": [
+        30,
+        500
+      ]
+    },
+    "unknowns": [
+      "source meshes/UVs",
+      "real-world dimensions",
+      "source camera intrinsics",
+      "source easing curves",
+      "renderer/shader settings",
+      "voice identity/provider/preset",
+      "isolated music/SFX stems"
+    ]
+  },
+  "rights": {
+    "code_docs": "MIT",
+    "reference_media": "Original rights retained; see references/LICENSE-MEDIA.md",
+    "font": "SIL OFL; see public/fonts/OFL.txt"
+  }
+}

@@ -1,0 +1,1201 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": " Set some pavers down the hill to your house, and you have a driveway.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.26,
+          "word": " Set",
+          "probability": 0.6549819707870483
+        },
+        {
+          "start": 0.26,
+          "end": 0.42,
+          "word": " some",
+          "probability": 0.989085853099823
+        },
+        {
+          "start": 0.42,
+          "end": 0.72,
+          "word": " pavers",
+          "probability": 0.9820436537265778
+        },
+        {
+          "start": 0.72,
+          "end": 0.9,
+          "word": " down",
+          "probability": 0.994411289691925
+        },
+        {
+          "start": 0.9,
+          "end": 1.02,
+          "word": " the",
+          "probability": 0.9912689924240112
+        },
+        {
+          "start": 1.02,
+          "end": 1.14,
+          "word": " hill",
+          "probability": 0.9884331822395325
+        },
+        {
+          "start": 1.14,
+          "end": 1.28,
+          "word": " to",
+          "probability": 0.9852554798126221
+        },
+        {
+          "start": 1.28,
+          "end": 1.38,
+          "word": " your",
+          "probability": 0.9932214021682739
+        },
+        {
+          "start": 1.38,
+          "end": 1.68,
+          "word": " house,",
+          "probability": 0.9980371594429016
+        },
+        {
+          "start": 1.9,
+          "end": 2.06,
+          "word": " and",
+          "probability": 0.9863189458847046
+        },
+        {
+          "start": 2.06,
+          "end": 2.22,
+          "word": " you",
+          "probability": 0.9874039888381958
+        },
+        {
+          "start": 2.22,
+          "end": 2.34,
+          "word": " have",
+          "probability": 0.9954981803894043
+        },
+        {
+          "start": 2.34,
+          "end": 2.42,
+          "word": " a",
+          "probability": 0.9940336346626282
+        },
+        {
+          "start": 2.42,
+          "end": 2.7,
+          "word": " driveway.",
+          "probability": 0.9931309819221497
+        }
+      ]
+    },
+    {
+      "start": 3.14,
+      "end": 6.96,
+      "text": " But one inch of rain sends about 400 gallons down it and straight into your house.",
+      "words": [
+        {
+          "start": 3.14,
+          "end": 3.24,
+          "word": " But",
+          "probability": 0.9571017026901245
+        },
+        {
+          "start": 3.24,
+          "end": 3.54,
+          "word": " one",
+          "probability": 0.7001230120658875
+        },
+        {
+          "start": 3.54,
+          "end": 3.66,
+          "word": " inch",
+          "probability": 0.9926764965057373
+        },
+        {
+          "start": 3.66,
+          "end": 3.8,
+          "word": " of",
+          "probability": 0.9980641007423401
+        },
+        {
+          "start": 3.8,
+          "end": 4.02,
+          "word": " rain",
+          "probability": 0.997245192527771
+        },
+        {
+          "start": 4.02,
+          "end": 4.24,
+          "word": " sends",
+          "probability": 0.9573158025741577
+        },
+        {
+          "start": 4.24,
+          "end": 4.46,
+          "word": " about",
+          "probability": 0.9942671656608582
+        },
+        {
+          "start": 4.46,
+          "end": 5.04,
+          "word": " 400",
+          "probability": 0.8733862638473511
+        },
+        {
+          "start": 5.04,
+          "end": 5.46,
+          "word": " gallons",
+          "probability": 0.9977415800094604
+        },
+        {
+          "start": 5.46,
+          "end": 5.72,
+          "word": " down",
+          "probability": 0.9946681261062622
+        },
+        {
+          "start": 5.72,
+          "end": 5.88,
+          "word": " it",
+          "probability": 0.9962978959083557
+        },
+        {
+          "start": 5.88,
+          "end": 6.0,
+          "word": " and",
+          "probability": 0.797437310218811
+        },
+        {
+          "start": 6.0,
+          "end": 6.38,
+          "word": " straight",
+          "probability": 0.991205632686615
+        },
+        {
+          "start": 6.38,
+          "end": 6.58,
+          "word": " into",
+          "probability": 0.9892734885215759
+        },
+        {
+          "start": 6.58,
+          "end": 6.74,
+          "word": " your",
+          "probability": 0.9973694086074829
+        },
+        {
+          "start": 6.74,
+          "end": 6.96,
+          "word": " house.",
+          "probability": 0.9991918206214905
+        }
+      ]
+    },
+    {
+      "start": 7.38,
+      "end": 9.3,
+      "text": " So, you cut a drain across the bottom of the driveway.",
+      "words": [
+        {
+          "start": 7.38,
+          "end": 7.56,
+          "word": " So,",
+          "probability": 0.9852109551429749
+        },
+        {
+          "start": 7.66,
+          "end": 7.76,
+          "word": " you",
+          "probability": 0.9972276091575623
+        },
+        {
+          "start": 7.76,
+          "end": 7.88,
+          "word": " cut",
+          "probability": 0.9960920214653015
+        },
+        {
+          "start": 7.88,
+          "end": 8.02,
+          "word": " a",
+          "probability": 0.9965434670448303
+        },
+        {
+          "start": 8.02,
+          "end": 8.2,
+          "word": " drain",
+          "probability": 0.9995123147964478
+        },
+        {
+          "start": 8.2,
+          "end": 8.44,
+          "word": " across",
+          "probability": 0.9961627721786499
+        },
+        {
+          "start": 8.44,
+          "end": 8.64,
+          "word": " the",
+          "probability": 0.9981526732444763
+        },
+        {
+          "start": 8.64,
+          "end": 8.8,
+          "word": " bottom",
+          "probability": 0.9980207681655884
+        },
+        {
+          "start": 8.8,
+          "end": 8.9,
+          "word": " of",
+          "probability": 0.998058021068573
+        },
+        {
+          "start": 8.9,
+          "end": 9.0,
+          "word": " the",
+          "probability": 0.99048912525177
+        },
+        {
+          "start": 9.0,
+          "end": 9.3,
+          "word": " driveway.",
+          "probability": 0.998600423336029
+        }
+      ]
+    },
+    {
+      "start": 9.72,
+      "end": 10.78,
+      "text": " This is the trench drain.",
+      "words": [
+        {
+          "start": 9.72,
+          "end": 9.88,
+          "word": " This",
+          "probability": 0.9903135299682617
+        },
+        {
+          "start": 9.88,
+          "end": 10.12,
+          "word": " is",
+          "probability": 0.9877004623413086
+        },
+        {
+          "start": 10.12,
+          "end": 10.26,
+          "word": " the",
+          "probability": 0.9965879917144775
+        },
+        {
+          "start": 10.26,
+          "end": 10.46,
+          "word": " trench",
+          "probability": 0.94950932264328
+        },
+        {
+          "start": 10.46,
+          "end": 10.78,
+          "word": " drain.",
+          "probability": 0.9962363839149475
+        }
+      ]
+    },
+    {
+      "start": 11.16,
+      "end": 14.54,
+      "text": " But your house is the lowest spot, so the drain overflows like a clogged sink.",
+      "words": [
+        {
+          "start": 11.16,
+          "end": 11.26,
+          "word": " But",
+          "probability": 0.9754787683486938
+        },
+        {
+          "start": 11.26,
+          "end": 11.38,
+          "word": " your",
+          "probability": 0.9679481983184814
+        },
+        {
+          "start": 11.38,
+          "end": 11.62,
+          "word": " house",
+          "probability": 0.9986227750778198
+        },
+        {
+          "start": 11.62,
+          "end": 11.78,
+          "word": " is",
+          "probability": 0.9974896907806396
+        },
+        {
+          "start": 11.78,
+          "end": 11.92,
+          "word": " the",
+          "probability": 0.998218834400177
+        },
+        {
+          "start": 11.92,
+          "end": 12.1,
+          "word": " lowest",
+          "probability": 0.9968553781509399
+        },
+        {
+          "start": 12.1,
+          "end": 12.46,
+          "word": " spot,",
+          "probability": 0.9990701079368591
+        },
+        {
+          "start": 12.6,
+          "end": 12.72,
+          "word": " so",
+          "probability": 0.995518684387207
+        },
+        {
+          "start": 12.72,
+          "end": 12.84,
+          "word": " the",
+          "probability": 0.9904562830924988
+        },
+        {
+          "start": 12.84,
+          "end": 13.04,
+          "word": " drain",
+          "probability": 0.9991542100906372
+        },
+        {
+          "start": 13.04,
+          "end": 13.7,
+          "word": " overflows",
+          "probability": 0.9955565333366394
+        },
+        {
+          "start": 13.7,
+          "end": 13.86,
+          "word": " like",
+          "probability": 0.9554309248924255
+        },
+        {
+          "start": 13.86,
+          "end": 14.0,
+          "word": " a",
+          "probability": 0.9961041212081909
+        },
+        {
+          "start": 14.0,
+          "end": 14.24,
+          "word": " clogged",
+          "probability": 0.9981412887573242
+        },
+        {
+          "start": 14.24,
+          "end": 14.54,
+          "word": " sink.",
+          "probability": 0.9994325041770935
+        }
+      ]
+    },
+    {
+      "start": 14.98,
+      "end": 17.5,
+      "text": " So, you pipe it into a pit in the ground with a pump at the bottom.",
+      "words": [
+        {
+          "start": 14.98,
+          "end": 15.14,
+          "word": " So,",
+          "probability": 0.9912841320037842
+        },
+        {
+          "start": 15.28,
+          "end": 15.38,
+          "word": " you",
+          "probability": 0.9987003803253174
+        },
+        {
+          "start": 15.38,
+          "end": 15.54,
+          "word": " pipe",
+          "probability": 0.987803041934967
+        },
+        {
+          "start": 15.54,
+          "end": 15.7,
+          "word": " it",
+          "probability": 0.9723872542381287
+        },
+        {
+          "start": 15.7,
+          "end": 15.86,
+          "word": " into",
+          "probability": 0.9856652021408081
+        },
+        {
+          "start": 15.86,
+          "end": 16.0,
+          "word": " a",
+          "probability": 0.991524338722229
+        },
+        {
+          "start": 16.0,
+          "end": 16.16,
+          "word": " pit",
+          "probability": 0.9979619979858398
+        },
+        {
+          "start": 16.16,
+          "end": 16.3,
+          "word": " in",
+          "probability": 0.9900942444801331
+        },
+        {
+          "start": 16.3,
+          "end": 16.38,
+          "word": " the",
+          "probability": 0.9983322024345398
+        },
+        {
+          "start": 16.38,
+          "end": 16.58,
+          "word": " ground",
+          "probability": 0.9994156360626221
+        },
+        {
+          "start": 16.58,
+          "end": 16.74,
+          "word": " with",
+          "probability": 0.9387378096580505
+        },
+        {
+          "start": 16.74,
+          "end": 16.84,
+          "word": " a",
+          "probability": 0.9822481274604797
+        },
+        {
+          "start": 16.84,
+          "end": 17.02,
+          "word": " pump",
+          "probability": 0.9971109628677368
+        },
+        {
+          "start": 17.02,
+          "end": 17.16,
+          "word": " at",
+          "probability": 0.9943675398826599
+        },
+        {
+          "start": 17.16,
+          "end": 17.26,
+          "word": " the",
+          "probability": 0.999543309211731
+        },
+        {
+          "start": 17.26,
+          "end": 17.5,
+          "word": " bottom.",
+          "probability": 0.9994326233863831
+        }
+      ]
+    },
+    {
+      "start": 17.84,
+      "end": 20.56,
+      "text": " When the pit fills, the pump shoots the water uphill to the street.",
+      "words": [
+        {
+          "start": 17.84,
+          "end": 17.98,
+          "word": " When",
+          "probability": 0.9956423044204712
+        },
+        {
+          "start": 17.98,
+          "end": 18.1,
+          "word": " the",
+          "probability": 0.9966747760772705
+        },
+        {
+          "start": 18.1,
+          "end": 18.22,
+          "word": " pit",
+          "probability": 0.9897827506065369
+        },
+        {
+          "start": 18.22,
+          "end": 18.5,
+          "word": " fills,",
+          "probability": 0.9940003156661987
+        },
+        {
+          "start": 18.72,
+          "end": 18.84,
+          "word": " the",
+          "probability": 0.9971778392791748
+        },
+        {
+          "start": 18.84,
+          "end": 19.0,
+          "word": " pump",
+          "probability": 0.9953289031982422
+        },
+        {
+          "start": 19.0,
+          "end": 19.24,
+          "word": " shoots",
+          "probability": 0.9874835014343262
+        },
+        {
+          "start": 19.24,
+          "end": 19.42,
+          "word": " the",
+          "probability": 0.9938848614692688
+        },
+        {
+          "start": 19.42,
+          "end": 19.62,
+          "word": " water",
+          "probability": 0.9991378784179688
+        },
+        {
+          "start": 19.62,
+          "end": 19.96,
+          "word": " uphill",
+          "probability": 0.9771484136581421
+        },
+        {
+          "start": 19.96,
+          "end": 20.2,
+          "word": " to",
+          "probability": 0.9867272973060608
+        },
+        {
+          "start": 20.2,
+          "end": 20.28,
+          "word": " the",
+          "probability": 0.9990053772926331
+        },
+        {
+          "start": 20.28,
+          "end": 20.56,
+          "word": " street.",
+          "probability": 0.9971345663070679
+        }
+      ]
+    },
+    {
+      "start": 20.9,
+      "end": 21.96,
+      "text": " This is the sump pump.",
+      "words": [
+        {
+          "start": 20.9,
+          "end": 21.12,
+          "word": " This",
+          "probability": 0.9960322976112366
+        },
+        {
+          "start": 21.12,
+          "end": 21.38,
+          "word": " is",
+          "probability": 0.9905529022216797
+        },
+        {
+          "start": 21.38,
+          "end": 21.54,
+          "word": " the",
+          "probability": 0.9956967830657959
+        },
+        {
+          "start": 21.54,
+          "end": 21.72,
+          "word": " sump",
+          "probability": 0.9964772760868073
+        },
+        {
+          "start": 21.72,
+          "end": 21.96,
+          "word": " pump.",
+          "probability": 0.9921814203262329
+        }
+      ]
+    },
+    {
+      "start": 22.34,
+      "end": 25.46,
+      "text": " A cheap crew skips the pump because it looks done until the first storm.",
+      "words": [
+        {
+          "start": 22.34,
+          "end": 22.46,
+          "word": " A",
+          "probability": 0.9951176643371582
+        },
+        {
+          "start": 22.46,
+          "end": 22.66,
+          "word": " cheap",
+          "probability": 0.9338489174842834
+        },
+        {
+          "start": 22.66,
+          "end": 22.9,
+          "word": " crew",
+          "probability": 0.8940396904945374
+        },
+        {
+          "start": 22.9,
+          "end": 23.2,
+          "word": " skips",
+          "probability": 0.9938617646694183
+        },
+        {
+          "start": 23.2,
+          "end": 23.38,
+          "word": " the",
+          "probability": 0.998071014881134
+        },
+        {
+          "start": 23.38,
+          "end": 23.56,
+          "word": " pump",
+          "probability": 0.9981233477592468
+        },
+        {
+          "start": 23.56,
+          "end": 23.88,
+          "word": " because",
+          "probability": 0.5283386707305908
+        },
+        {
+          "start": 23.88,
+          "end": 24.04,
+          "word": " it",
+          "probability": 0.9974276423454285
+        },
+        {
+          "start": 24.04,
+          "end": 24.18,
+          "word": " looks",
+          "probability": 0.9968296885490417
+        },
+        {
+          "start": 24.18,
+          "end": 24.46,
+          "word": " done",
+          "probability": 0.9873870015144348
+        },
+        {
+          "start": 24.46,
+          "end": 24.76,
+          "word": " until",
+          "probability": 0.9881523251533508
+        },
+        {
+          "start": 24.76,
+          "end": 24.9,
+          "word": " the",
+          "probability": 0.9971672892570496
+        },
+        {
+          "start": 24.9,
+          "end": 25.08,
+          "word": " first",
+          "probability": 0.9968771934509277
+        },
+        {
+          "start": 25.08,
+          "end": 25.46,
+          "word": " storm.",
+          "probability": 0.9986823201179504
+        }
+      ]
+    },
+    {
+      "start": 25.82,
+      "end": 29.12,
+      "text": " But leaves wash into the drain and jam the pump like hair in a shower drain.",
+      "words": [
+        {
+          "start": 25.82,
+          "end": 25.98,
+          "word": " But",
+          "probability": 0.9907248616218567
+        },
+        {
+          "start": 25.98,
+          "end": 26.26,
+          "word": " leaves",
+          "probability": 0.9894591569900513
+        },
+        {
+          "start": 26.26,
+          "end": 26.54,
+          "word": " wash",
+          "probability": 0.9953404664993286
+        },
+        {
+          "start": 26.54,
+          "end": 26.74,
+          "word": " into",
+          "probability": 0.9905989766120911
+        },
+        {
+          "start": 26.74,
+          "end": 26.88,
+          "word": " the",
+          "probability": 0.9989930987358093
+        },
+        {
+          "start": 26.88,
+          "end": 27.16,
+          "word": " drain",
+          "probability": 0.9987088441848755
+        },
+        {
+          "start": 27.16,
+          "end": 27.36,
+          "word": " and",
+          "probability": 0.9736211895942688
+        },
+        {
+          "start": 27.36,
+          "end": 27.58,
+          "word": " jam",
+          "probability": 0.9938788414001465
+        },
+        {
+          "start": 27.58,
+          "end": 27.76,
+          "word": " the",
+          "probability": 0.9986240863800049
+        },
+        {
+          "start": 27.76,
+          "end": 27.94,
+          "word": " pump",
+          "probability": 0.9960801005363464
+        },
+        {
+          "start": 27.94,
+          "end": 28.12,
+          "word": " like",
+          "probability": 0.9583035707473755
+        },
+        {
+          "start": 28.12,
+          "end": 28.34,
+          "word": " hair",
+          "probability": 0.9902888536453247
+        },
+        {
+          "start": 28.34,
+          "end": 28.5,
+          "word": " in",
+          "probability": 0.9964945912361145
+        },
+        {
+          "start": 28.5,
+          "end": 28.62,
+          "word": " a",
+          "probability": 0.980991005897522
+        },
+        {
+          "start": 28.62,
+          "end": 28.78,
+          "word": " shower",
+          "probability": 0.9988792538642883
+        },
+        {
+          "start": 28.78,
+          "end": 29.12,
+          "word": " drain.",
+          "probability": 0.9976866245269775
+        }
+      ]
+    },
+    {
+      "start": 29.12,
+      "end": 31.9,
+      "text": " So, you put a basket under the grate that catches the leaves first.",
+      "words": [
+        {
+          "start": 29.12,
+          "end": 29.64,
+          "word": " So,",
+          "probability": 0.7151249051094055
+        },
+        {
+          "start": 29.76,
+          "end": 29.82,
+          "word": " you",
+          "probability": 0.9917678833007812
+        },
+        {
+          "start": 29.82,
+          "end": 29.92,
+          "word": " put",
+          "probability": 0.9970391988754272
+        },
+        {
+          "start": 29.92,
+          "end": 30.04,
+          "word": " a",
+          "probability": 0.9922894835472107
+        },
+        {
+          "start": 30.04,
+          "end": 30.3,
+          "word": " basket",
+          "probability": 0.9978132247924805
+        },
+        {
+          "start": 30.3,
+          "end": 30.5,
+          "word": " under",
+          "probability": 0.9923615455627441
+        },
+        {
+          "start": 30.5,
+          "end": 30.66,
+          "word": " the",
+          "probability": 0.994080126285553
+        },
+        {
+          "start": 30.66,
+          "end": 30.82,
+          "word": " grate",
+          "probability": 0.9977635145187378
+        },
+        {
+          "start": 30.82,
+          "end": 31.02,
+          "word": " that",
+          "probability": 0.9743262529373169
+        },
+        {
+          "start": 31.02,
+          "end": 31.24,
+          "word": " catches",
+          "probability": 0.998704195022583
+        },
+        {
+          "start": 31.24,
+          "end": 31.42,
+          "word": " the",
+          "probability": 0.9943696856498718
+        },
+        {
+          "start": 31.42,
+          "end": 31.58,
+          "word": " leaves",
+          "probability": 0.986332356929779
+        },
+        {
+          "start": 31.58,
+          "end": 31.9,
+          "word": " first.",
+          "probability": 0.9980053305625916
+        }
+      ]
+    },
+    {
+      "start": 32.32,
+      "end": 35.16,
+      "text": " But big storms knock out the power, right when you need the pump the most.",
+      "words": [
+        {
+          "start": 32.32,
+          "end": 32.48,
+          "word": " But",
+          "probability": 0.9861888289451599
+        },
+        {
+          "start": 32.48,
+          "end": 32.68,
+          "word": " big",
+          "probability": 0.953685462474823
+        },
+        {
+          "start": 32.68,
+          "end": 32.98,
+          "word": " storms",
+          "probability": 0.9987780451774597
+        },
+        {
+          "start": 32.98,
+          "end": 33.18,
+          "word": " knock",
+          "probability": 0.9887211918830872
+        },
+        {
+          "start": 33.18,
+          "end": 33.34,
+          "word": " out",
+          "probability": 0.9953646659851074
+        },
+        {
+          "start": 33.34,
+          "end": 33.46,
+          "word": " the",
+          "probability": 0.9937443137168884
+        },
+        {
+          "start": 33.46,
+          "end": 33.78,
+          "word": " power,",
+          "probability": 0.9993608593940735
+        },
+        {
+          "start": 33.98,
+          "end": 34.16,
+          "word": " right",
+          "probability": 0.9904720783233643
+        },
+        {
+          "start": 34.16,
+          "end": 34.32,
+          "word": " when",
+          "probability": 0.9941447377204895
+        },
+        {
+          "start": 34.32,
+          "end": 34.4,
+          "word": " you",
+          "probability": 0.9979386925697327
+        },
+        {
+          "start": 34.4,
+          "end": 34.5,
+          "word": " need",
+          "probability": 0.9980833530426025
+        },
+        {
+          "start": 34.5,
+          "end": 34.64,
+          "word": " the",
+          "probability": 0.9757591485977173
+        },
+        {
+          "start": 34.64,
+          "end": 34.76,
+          "word": " pump",
+          "probability": 0.9980924725532532
+        },
+        {
+          "start": 34.76,
+          "end": 34.9,
+          "word": " the",
+          "probability": 0.9832618236541748
+        },
+        {
+          "start": 34.9,
+          "end": 35.16,
+          "word": " most.",
+          "probability": 0.999537467956543
+        }
+      ]
+    },
+    {
+      "start": 35.58,
+      "end": 37.38,
+      "text": " So, you add a backup pump that runs on a battery.",
+      "words": [
+        {
+          "start": 35.58,
+          "end": 35.7,
+          "word": " So,",
+          "probability": 0.9911841154098511
+        },
+        {
+          "start": 35.82,
+          "end": 35.9,
+          "word": " you",
+          "probability": 0.9950656294822693
+        },
+        {
+          "start": 35.9,
+          "end": 36.02,
+          "word": " add",
+          "probability": 0.9965819716453552
+        },
+        {
+          "start": 36.02,
+          "end": 36.1,
+          "word": " a",
+          "probability": 0.9931185245513916
+        },
+        {
+          "start": 36.1,
+          "end": 36.36,
+          "word": " backup",
+          "probability": 0.8990702033042908
+        },
+        {
+          "start": 36.36,
+          "end": 36.6,
+          "word": " pump",
+          "probability": 0.9971393346786499
+        },
+        {
+          "start": 36.6,
+          "end": 36.76,
+          "word": " that",
+          "probability": 0.9852848649024963
+        },
+        {
+          "start": 36.76,
+          "end": 36.9,
+          "word": " runs",
+          "probability": 0.9965643286705017
+        },
+        {
+          "start": 36.9,
+          "end": 37.06,
+          "word": " on",
+          "probability": 0.9969549179077148
+        },
+        {
+          "start": 37.06,
+          "end": 37.14,
+          "word": " a",
+          "probability": 0.9873756170272827
+        },
+        {
+          "start": 37.14,
+          "end": 37.38,
+          "word": " battery.",
+          "probability": 0.9989726543426514
+        }
+      ]
+    },
+    {
+      "start": 37.8,
+      "end": 41.32,
+      "text": " That little hole you've seen in the curb is where it all comes out, and your house stays dry.",
+      "words": [
+        {
+          "start": 37.8,
+          "end": 37.94,
+          "word": " That",
+          "probability": 0.9830910563468933
+        },
+        {
+          "start": 37.94,
+          "end": 38.12,
+          "word": " little",
+          "probability": 0.9928804039955139
+        },
+        {
+          "start": 38.12,
+          "end": 38.34,
+          "word": " hole",
+          "probability": 0.9998041987419128
+        },
+        {
+          "start": 38.34,
+          "end": 38.56,
+          "word": " you've",
+          "probability": 0.981110155582428
+        },
+        {
+          "start": 38.56,
+          "end": 38.66,
+          "word": " seen",
+          "probability": 0.9965773224830627
+        },
+        {
+          "start": 38.66,
+          "end": 38.78,
+          "word": " in",
+          "probability": 0.9749876856803894
+        },
+        {
+          "start": 38.78,
+          "end": 38.88,
+          "word": " the",
+          "probability": 0.993468165397644
+        },
+        {
+          "start": 38.88,
+          "end": 39.08,
+          "word": " curb",
+          "probability": 0.99001544713974
+        },
+        {
+          "start": 39.08,
+          "end": 39.26,
+          "word": " is",
+          "probability": 0.9364258646965027
+        },
+        {
+          "start": 39.26,
+          "end": 39.4,
+          "word": " where",
+          "probability": 0.9963591694831848
+        },
+        {
+          "start": 39.4,
+          "end": 39.52,
+          "word": " it",
+          "probability": 0.9937968254089355
+        },
+        {
+          "start": 39.52,
+          "end": 39.7,
+          "word": " all",
+          "probability": 0.9976794123649597
+        },
+        {
+          "start": 39.7,
+          "end": 39.92,
+          "word": " comes",
+          "probability": 0.9970412850379944
+        },
+        {
+          "start": 39.92,
+          "end": 40.18,
+          "word": " out,",
+          "probability": 0.9981573224067688
+        },
+        {
+          "start": 40.36,
+          "end": 40.44,
+          "word": " and",
+          "probability": 0.9963263869285583
+        },
+        {
+          "start": 40.44,
+          "end": 40.52,
+          "word": " your",
+          "probability": 0.992831826210022
+        },
+        {
+          "start": 40.52,
+          "end": 40.74,
+          "word": " house",
+          "probability": 0.9987120628356934
+        },
+        {
+          "start": 40.74,
+          "end": 41.04,
+          "word": " stays",
+          "probability": 0.9976123571395874
+        },
+        {
+          "start": 41.04,
+          "end": 41.32,
+          "word": " dry.",
+          "probability": 0.9972556233406067
+        }
+      ]
+    }
+  ]
+}

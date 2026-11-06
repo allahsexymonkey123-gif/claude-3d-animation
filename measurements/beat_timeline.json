@@ -1,0 +1,335 @@
+{
+  "ref01": [
+    {
+      "start": 0,
+      "end": 90,
+      "id": "establish",
+      "observation": "House/driveway establishment; opening comparison hook; surface appears.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 90,
+      "end": 224,
+      "id": "load-and-failure",
+      "observation": "Closer house view; blue car enters/parks; slab sinks and crack appears.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 224,
+      "end": 350,
+      "id": "base-section",
+      "observation": "Move into low section; dirt removed; granular base and top slab revealed; BASE label.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 350,
+      "end": 478,
+      "id": "shrink-crack",
+      "observation": "Move overhead; drying/shrink demonstration; fixed middle crack grows.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 478,
+      "end": 589,
+      "id": "rebar-reveal",
+      "observation": "Return oblique; concrete reveals aligned steel mesh; REBAR label.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 589,
+      "end": 717,
+      "id": "rebar-limit",
+      "observation": "Return overhead; steel disappears beneath concrete; cracks remain and branch.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 717,
+      "end": 839,
+      "id": "control-joint-layout",
+      "observation": "Cut lines across slab; split squares; temporary green explanatory tint.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 839,
+      "end": 932,
+      "id": "control-joint-label",
+      "observation": "CONTROL JOINTS label; spacing example and additional crack.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 932,
+      "end": 1050,
+      "id": "sidewalk-example",
+      "observation": "Sweep across tree to horizontal sidewalk section; mint joints and localized cracks.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1050,
+      "end": 1120,
+      "id": "return-to-grid",
+      "observation": "Return to familiar overhead driveway grid.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1120,
+      "end": 1240,
+      "id": "root-lift",
+      "observation": "Move lower oblique; root grows from left; one thick panel lifts.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1240,
+      "end": 1285,
+      "id": "trip-edge",
+      "observation": "Push to lifted panel edge; TRIP EDGE leader label.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1285,
+      "end": 1320,
+      "id": "jackhammer",
+      "observation": "Tool enters; local vibration and crack/break preparation.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1320,
+      "end": 1370,
+      "id": "remove-and-patch",
+      "observation": "Rigid pieces separate; root removed; replacement patch fills opening.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1370,
+      "end": 1398,
+      "id": "new-patch-label",
+      "observation": "NEW PATCH label; mismatched concrete example.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1398,
+      "end": 1492,
+      "id": "smaller-grid",
+      "observation": "Return overhead; large slab grid becomes finer square grid.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1492,
+      "end": 1540,
+      "id": "paver-pattern",
+      "observation": "Top surface changes to modular terracotta/tan pavers.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1540,
+      "end": 1649,
+      "id": "sand-section",
+      "observation": "Move to section; sand and base layers; SAND/PAVERS labels.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1649,
+      "end": 1707,
+      "id": "local-paver-lift",
+      "observation": "Move oblique; root lifts local pavers, neighboring blocks retain grid.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1707,
+      "end": 1770,
+      "id": "remove-trim-return",
+      "observation": "A few pavers rise/move; root trimmed; same positions refilled.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1770,
+      "end": 1808,
+      "id": "return-wide",
+      "observation": "Return to recognizable house/driveway; next explanatory payoff.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1808,
+      "end": 1860,
+      "id": "car-and-strength-label",
+      "observation": "Car enters/parks; small strength claim label in the supplied reference.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1860,
+      "end": 1930,
+      "id": "payoff-push",
+      "observation": "Closer view around parked car and completed pavers.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1930,
+      "end": 2049,
+      "id": "joint-emphasis-ending",
+      "observation": "Paver joints emphasize separation; final phrase and settling hold.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    }
+  ],
+  "ref02": [
+    {
+      "start": 0,
+      "end": 90,
+      "id": "establish",
+      "observation": "Modern house, sloping drive, pavers assemble; opening flooding headline.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 90,
+      "end": 195,
+      "id": "rain-and-count",
+      "observation": "Title leaves; rain starts; count graphic rises; runoff moves toward house.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 195,
+      "end": 224,
+      "id": "flood-failure",
+      "observation": "FLOODED stamp appears over water at house.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 224,
+      "end": 294,
+      "id": "trench-install",
+      "observation": "Storm resets; drain cut/installed across lower driveway.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 294,
+      "end": 350,
+      "id": "trench-label",
+      "observation": "TRENCH DRAIN label and leader; mechanism named.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 350,
+      "end": 395,
+      "id": "lowest-spot",
+      "observation": "LOWEST SPOT status; rain/flow resumes in same scene.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 395,
+      "end": 445,
+      "id": "overflow",
+      "observation": "Water pools/overflows at garage; no invented camera cut.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 445,
+      "end": 475,
+      "id": "pit-opening",
+      "observation": "Push close to underground section; connecting inlet/pit opening appears.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 475,
+      "end": 510,
+      "id": "pit-and-pump",
+      "observation": "PIT leader; recessed section and blue pump are revealed.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 510,
+      "end": 531,
+      "id": "return-pipe",
+      "observation": "Discharge/return pipe emerges connected to pump.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 531,
+      "end": 625,
+      "id": "whole-route",
+      "observation": "Pull wider; water fills and pumps along visible route toward street.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 625,
+      "end": 665,
+      "id": "sump-label",
+      "observation": "SUMP PUMP label; route held for reading.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 665,
+      "end": 725,
+      "id": "missing-pump",
+      "observation": "Return wide; NO PUMP red/white stamp.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 725,
+      "end": 753,
+      "id": "looks-done",
+      "observation": "LOOKS DONE label, held before first storm.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 753,
+      "end": 774,
+      "id": "first-storm",
+      "observation": "Brief white flash and renewed rain/flow, same geometry.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 774,
+      "end": 820,
+      "id": "leaves",
+      "observation": "Move closer; leaves travel into drain with surface water.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 820,
+      "end": 885,
+      "id": "jam",
+      "observation": "JAMMED stamp and continued local rain/flow.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 885,
+      "end": 976,
+      "id": "leaf-basket",
+      "observation": "LEAF BASKET label; leaves collect before the hidden mechanism.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 976,
+      "end": 1000,
+      "id": "power-storm",
+      "observation": "Repeated short flashes, followed by power failure state.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1000,
+      "end": 1078,
+      "id": "power-out",
+      "observation": "POWER OUT label, route and house remain aligned.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1078,
+      "end": 1128,
+      "id": "battery-backup",
+      "observation": "BATTERY BACKUP label and leader; new reliability feature.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1128,
+      "end": 1185,
+      "id": "curb-outlet",
+      "observation": "Reframe to curb; visible blue discharge; CURB OUTLET label.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    },
+    {
+      "start": 1185,
+      "end": 1245,
+      "id": "evening-payoff",
+      "observation": "Water continues toward outlet; evening sky/windows; final resolved caption.",
+      "range_status": "Manual semantic range; not a hard-cut or recovered keyframe boundary"
+    }
+  ]
+}

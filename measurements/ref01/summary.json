@@ -1,0 +1,65 @@
+{
+  "id": "ref01",
+  "original_filename": "snapgram.io_jgum1fo1itz7(1).mp4",
+  "sha256": "d5f645d98ef8930968447b894d53c23d65f1e4de86282e8c8788442eb1f9bce1",
+  "file_bytes": 41700720,
+  "width": 512,
+  "height": 910,
+  "fps": 30.0,
+  "frames": 2049,
+  "duration_s": 68.3,
+  "exact_duplicate_adjacent_frames": 0,
+  "cut_candidates": [
+    1492
+  ],
+  "cut_candidates_are_not_verified_edits": true,
+  "statistics": {
+    "mean_yprime": {
+      "p05": 0.398342,
+      "p25": 0.442167,
+      "p50": 0.489868,
+      "p75": 0.591311,
+      "p95": 0.601202
+    },
+    "mean_saturation": {
+      "p05": 0.251027,
+      "p25": 0.361166,
+      "p50": 0.445008,
+      "p75": 0.561744,
+      "p95": 0.655561
+    },
+    "mean_rgb_difference": {
+      "p05": 0.287476,
+      "p25": 0.569175,
+      "p50": 0.794995,
+      "p75": 2.326917,
+      "p95": 19.747443
+    },
+    "flow_median_source_px": {
+      "p05": 0.018609,
+      "p25": 0.11448,
+      "p50": 0.141465,
+      "p75": 0.19214,
+      "p95": 15.091105
+    },
+    "flow_p95_source_px": {
+      "p05": 0.238375,
+      "p25": 0.35673,
+      "p50": 0.576065,
+      "p75": 3.58532,
+      "p95": 35.399068
+    },
+    "histogram_distance": {
+      "p05": 0.022151,
+      "p25": 0.03282,
+      "p50": 0.04032,
+      "p75": 0.054445,
+      "p95": 0.084695
+    }
+  },
+  "audio": {
+    "sample_rate_analysis": 16000,
+    "source_sample_rate": "44100",
+    "mixed_track_pitch_caveat": "Autocorrelation candidates from mixed speech/music/SFX; not a verified speaker fundamental or a voice identity."
+  }
+}

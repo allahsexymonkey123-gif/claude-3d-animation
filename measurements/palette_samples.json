@@ -1,0 +1,218 @@
+[
+  {
+    "reference": "ref01",
+    "frame": 140,
+    "region": "concrete_lit",
+    "box_xyxy": [
+      50,
+      500,
+      180,
+      555
+    ],
+    "median_rgb": [
+      180,
+      176,
+      164
+    ],
+    "srgb_hex": "#B4B0A4",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref01",
+    "frame": 140,
+    "region": "grass_lit",
+    "box_xyxy": [
+      440,
+      525,
+      500,
+      580
+    ],
+    "median_rgb": [
+      84,
+      163,
+      50
+    ],
+    "srgb_hex": "#54A332",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref01",
+    "frame": 140,
+    "region": "roof_terracotta",
+    "box_xyxy": [
+      235,
+      50,
+      285,
+      75
+    ],
+    "median_rgb": [
+      178,
+      71,
+      24
+    ],
+    "srgb_hex": "#B24718",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref01",
+    "frame": 140,
+    "region": "clapboard",
+    "box_xyxy": [
+      120,
+      80,
+      200,
+      100
+    ],
+    "median_rgb": [
+      200,
+      183,
+      158
+    ],
+    "srgb_hex": "#C8B79E",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref01",
+    "frame": 140,
+    "region": "soil",
+    "box_xyxy": [
+      90,
+      755,
+      210,
+      810
+    ],
+    "median_rgb": [
+      104,
+      65,
+      17
+    ],
+    "srgb_hex": "#684111",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref01",
+    "frame": 140,
+    "region": "blue_vehicle",
+    "box_xyxy": [
+      225,
+      355,
+      300,
+      370
+    ],
+    "median_rgb": [
+      13,
+      84,
+      162
+    ],
+    "srgb_hex": "#0D54A2",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref02",
+    "frame": 30,
+    "region": "sky",
+    "box_xyxy": [
+      200,
+      5,
+      300,
+      25
+    ],
+    "median_rgb": [
+      144,
+      203,
+      238
+    ],
+    "srgb_hex": "#90CBEE",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref02",
+    "frame": 30,
+    "region": "plaster",
+    "box_xyxy": [
+      350,
+      240,
+      430,
+      275
+    ],
+    "median_rgb": [
+      190,
+      181,
+      166
+    ],
+    "srgb_hex": "#BEB5A6",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref02",
+    "frame": 30,
+    "region": "garage",
+    "box_xyxy": [
+      275,
+      425,
+      400,
+      480
+    ],
+    "median_rgb": [
+      29,
+      32,
+      37
+    ],
+    "srgb_hex": "#1D2025",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref02",
+    "frame": 30,
+    "region": "glass",
+    "box_xyxy": [
+      260,
+      270,
+      285,
+      310
+    ],
+    "median_rgb": [
+      124,
+      141,
+      158
+    ],
+    "srgb_hex": "#7C8D9E",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref02",
+    "frame": 500,
+    "region": "pit_wall",
+    "box_xyxy": [
+      300,
+      380,
+      325,
+      425
+    ],
+    "median_rgb": [
+      92,
+      80,
+      60
+    ],
+    "srgb_hex": "#5C503C",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  },
+  {
+    "reference": "ref02",
+    "frame": 500,
+    "region": "pump_blue",
+    "box_xyxy": [
+      280,
+      500,
+      300,
+      525
+    ],
+    "median_rgb": [
+      10,
+      90,
+      149
+    ],
+    "srgb_hex": "#0A5A95",
+    "note": "Median of a decoded JPEG study crop; lit pixels, not source albedo."
+  }
+]
