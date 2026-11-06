@@ -1,0 +1,235 @@
+{
+  "title": "The Number Chooses the Route",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration_frames": 720,
+  "voice_file": null,
+  "words_file": null,
+  "voice_status": "pending",
+  "production_scope": "Production plan only; no generated audio, models, renders or finished movie.",
+  "timing_status": "Planned frame targets, not waveform-derived word timings. Refit causal cues to actual checked narration before locking animation.",
+  "speech_target_end_frame": 690,
+  "final_hold_frames": 30,
+  "narration_word_count": 98,
+  "technology_scope": "Illustrative conventional conveyor network with controlled side pusher; screened input to flight make-up collection belt.",
+  "voice_plan": {
+    "identity_status": "Unselected original narrator; no provider or voice ID asserted.",
+    "accent": "General American English",
+    "delivery": "clear conversational adult mid-register",
+    "target_words_per_second_including_internal_pauses": 4.260869565217392
+  },
+  "opening_hook": {
+    "start": 0,
+    "end": 90,
+    "fade_start": 84,
+    "text": "HOW YOUR BAG / FINDS ITS FLIGHT",
+    "green_words": [
+      "FINDS ITS FLIGHT"
+    ]
+  },
+  "shots": [
+    {
+      "id": "S01",
+      "start": 0,
+      "end": 113,
+      "narration": "Your suitcase disappears onto a belt. But a moving belt alone can't choose the correct flight.",
+      "mechanism": "Transport alone cannot determine a flight destination.",
+      "camera": "C1: high three-quarter, elevation 42 degrees, vertical FOV 36 degrees; 2 percent push, stable during roof reveal.",
+      "action": "Blue suitcase enters the terminal opening; roof panel lifts and bounded wall cutaway reveals the continuous conveyor network. Two destination signs remain neutral.",
+      "caption": "THE CORRECT FLIGHT",
+      "caption_sequence": [
+        "YOUR SUITCASE",
+        "ONTO A BELT",
+        "CAN'T CHOOSE",
+        "THE CORRECT FLIGHT"
+      ],
+      "green_words": [
+        "SUITCASE",
+        "CHOOSE",
+        "FLIGHT"
+      ],
+      "label": null,
+      "sfx": [
+        "quiet conveyor motor",
+        "soft rigid panel lift"
+      ],
+      "reference_frame": "../zen-3d-explainer-shorts/references/frames/ref02/f000030.jpg"
+    },
+    {
+      "id": "S02",
+      "start": 113,
+      "end": 162,
+      "narration": "A scanner reads the tag's unique number.",
+      "mechanism": "An optical reader attempts to identify the bag tag.",
+      "camera": "C1 to C2 over frames [113,131): scanner insert, elevation 22 degrees, FOV 32 degrees; then hold.",
+      "action": "Scanner and attached tag fill the insert. Attempt ends without confirmed ID; tag and bag dimensions remain constant.",
+      "caption": "THE UNIQUE NUMBER",
+      "caption_sequence": [
+        "A SCANNER READS",
+        "THE UNIQUE NUMBER"
+      ],
+      "green_words": [
+        "SCANNER",
+        "NUMBER"
+      ],
+      "label": "TAG READER",
+      "sfx": [
+        "quiet scan tick, no success tone"
+      ],
+      "reference_frame": "../zen-3d-explainer-shorts/references/frames/ref02/f000500.jpg"
+    },
+    {
+      "id": "S03",
+      "start": 162,
+      "end": 219,
+      "narration": "Can't read it? An operator checks the details.",
+      "mechanism": "A failed barcode read is resolved by an operator checking a captured tag image.",
+      "camera": "C2 holds; 8-frame lateral nudge [174,182) reveals the existing operator monitor.",
+      "action": "Blue bag waits. NO READ status is replaced by ID CONFIRMED after the operator checks readable digits in the tag image; no tag replacement.",
+      "caption": "THE DETAILS",
+      "caption_sequence": [
+        "CAN'T READ IT?",
+        "AN OPERATOR CHECKS",
+        "THE DETAILS"
+      ],
+      "green_words": [
+        "OPERATOR",
+        "CHECKS"
+      ],
+      "label": "OPERATOR CHECK",
+      "sfx": [
+        "two key taps",
+        "confirmation click"
+      ],
+      "reference_frame": "../zen-3d-explainer-shorts/references/frames/ref02/f000500.jpg"
+    },
+    {
+      "id": "S04",
+      "start": 219,
+      "end": 297,
+      "narration": "Now the computer matches that number to the bag's flight record.",
+      "mechanism": "Bag identity is associated with flight data and the allocated collection belt.",
+      "camera": "C2 to C3 over [219,243): overhead plan, elevation 80 degrees, FOV 36 degrees, Flight 24 remains right.",
+      "action": "Compact diagram links ID …0317 to FLIGHT 24 and its right-hand collection branch. Resolved bag is released from the inlet hold.",
+      "caption": "TO ITS FLIGHT",
+      "caption_sequence": [
+        "THE COMPUTER MATCHES",
+        "THAT NUMBER",
+        "TO ITS FLIGHT"
+      ],
+      "green_words": [
+        "MATCHES",
+        "NUMBER",
+        "FLIGHT"
+      ],
+      "label": "FLIGHT RECORD",
+      "sfx": [
+        "soft UI latch"
+      ],
+      "reference_frame": "../zen-3d-explainer-shorts/references/frames/ref01/f000800.jpg"
+    },
+    {
+      "id": "S05",
+      "start": 297,
+      "end": 396,
+      "narration": "Sensors track the suitcase along the conveyor, keeping its position linked to its identity.",
+      "mechanism": "Photocell and encoder information maintain the identity-to-position association.",
+      "camera": "C3 to C4 over [297,321): lower section, elevation 18 degrees, FOV 34 degrees; then hold.",
+      "action": "Sensor responds to the actual crossing. An ID marker follows the blue bag, while the encoder rotation and belt displacement agree. Tan bag is ahead.",
+      "caption": "POSITION AND IDENTITY",
+      "caption_sequence": [
+        "SENSORS TRACK IT",
+        "ALONG THE CONVEYOR",
+        "POSITION AND IDENTITY"
+      ],
+      "green_words": [
+        "TRACK",
+        "POSITION",
+        "IDENTITY"
+      ],
+      "label": "POSITION SENSOR",
+      "sfx": [
+        "quiet sensor tick",
+        "conveyor bed"
+      ],
+      "reference_frame": "../zen-3d-explainer-shorts/references/frames/ref01/f000970.jpg"
+    },
+    {
+      "id": "S06",
+      "start": 396,
+      "end": 438,
+      "narration": "Another flight's bag passes straight through.",
+      "mechanism": "The controller leaves a Flight 17 bag on the main route.",
+      "camera": "C4 to C5 over [420,438): junction view, elevation 28 degrees, FOV 34 degrees, continuous orientation.",
+      "action": "Tan Flight 17 bag crosses the junction with pusher fully retracted and clears the transfer zone before the blue bag arrives.",
+      "caption": "PASSES STRAIGHT THROUGH",
+      "caption_sequence": [
+        "ANOTHER FLIGHT'S BAG",
+        "PASSES STRAIGHT THROUGH"
+      ],
+      "green_words": [
+        "STRAIGHT THROUGH"
+      ],
+      "label": null,
+      "sfx": [
+        "belt contact"
+      ],
+      "reference_frame": "../zen-3d-explainer-shorts/references/frames/ref01/f000800.jpg"
+    },
+    {
+      "id": "S07",
+      "start": 438,
+      "end": 529,
+      "narration": "Our bag arrives, and a timed diverter pushes it onto a different belt.",
+      "mechanism": "The controller actuates the diverter for the Flight 24 bag at its transfer position.",
+      "camera": "C5 holds with restrained 2 percent push; both routes and pusher contact remain visible.",
+      "action": "Blue bag centers by 458; main belt holds [458,529). Pusher extends [481,505), contact near 485, transfers the rigid supported bag onto the right belt, and retracts [505,529).",
+      "caption": "ONTO A DIFFERENT BELT",
+      "caption_sequence": [
+        "OUR BAG ARRIVES",
+        "A TIMED DIVERTER",
+        "PUSHES IT",
+        "ONTO A DIFFERENT BELT"
+      ],
+      "green_words": [
+        "DIVERTER",
+        "PUSHES",
+        "DIFFERENT BELT"
+      ],
+      "label": "DIVERTER",
+      "sfx": [
+        "muted actuator slide",
+        "rubber contact"
+      ],
+      "reference_frame": "../zen-3d-explainer-shorts/references/frames/ref02/f000500.jpg"
+    },
+    {
+      "id": "S08",
+      "start": 529,
+      "end": 720,
+      "narration": "That belt leads to Flight Twenty Four's collection point, ready for the loading crew. The belt moves it. Its identity chooses the route.",
+      "mechanism": "The connected branch carries the bag to the flight make-up collection point; loading remains a subsequent process.",
+      "camera": "C5 to C6 over [529,553): wider three-quarter, elevation 38 degrees, FOV 36 degrees; settle by frame 553, no camera motion after 660.",
+      "action": "Blue bag travels the connected branch and settles at the Flight 24 end stop by 611. Parked trolley establishes the next stage. Narration ends by 690; final caption and result hold [690,720).",
+      "caption": "ITS IDENTITY / CHOOSES THE ROUTE",
+      "caption_sequence": [
+        "FLIGHT TWENTY FOUR",
+        "READY FOR LOADING",
+        "THE BELT MOVES IT",
+        "ITS IDENTITY / CHOOSES THE ROUTE"
+      ],
+      "green_words": [
+        "FLIGHT",
+        "IDENTITY",
+        "ROUTE"
+      ],
+      "label": "FLIGHT 24",
+      "sfx": [
+        "roller settle",
+        "conveyor bed fades by frame 705"
+      ],
+      "reference_frame": "../zen-3d-explainer-shorts/references/frames/ref01/f000140.jpg"
+    }
+  ]
+}
